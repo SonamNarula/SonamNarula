@@ -1,81 +1,64 @@
-<!-- Profile README for Sonam Narula -->
-
+<!-- HEADER TAGLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=From+Coding+to+Cabinet+-+I+Do+Both!;SSC+CGL+2025+Aspirant+🎯;MERN+Stack+Dev+%7C+DSA+Mentor+%7C+CP+Lover;Midnight+Coder+%7C+Coffee+is+my+Forever+☕;" alt="Typing SVG" />
+  <img src="https://github.com/SonamNarula/SonamNarula/assets/000000007e9051f7af6913a4de5571f5/A_2D_digital_illustration_banner_features_a_cartoo.png" alt="Midnight Coder Banner" width="100%">
 </p>
 
-<h1 align="center">Hey there 👋 I'm Sonam Narula</h1>
+<h2 align="center">Hey there! 👋 I'm <span style="color:#ff5e5b">Sonam Narula</span></h2>
+<p align="center">👩🏻‍💻 Core Team @ DevCrest || 🧠 JECRC Incubation Centre || ✍️ Literature Club Executive</p>
+<p align="center"><i>“Codes at Midnight 🌙 | Caffeine in Hand ☕ | Ideas in Mind 💡”</i></p>
 
-<p align="center">
-  <i>💻 DevCrest Core | 🚀 JECRC Incubation Centre | ✨ Literature Club Executive</i><br>
-  <i>🌙 Midnight Coder | ☕ Compiler + Coffee = Bliss | 🧠 CP & SSC Prep</i>
-</p>
+---
 
+### ⚙️ Tech Arsenal  
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="70%" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nodejs,express,mongodb,git,github,linux,vscode,figma,canva" />
 </p>
 
 ---
 
-## 🧰 Tech Stack
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nodejs,express,mongodb,html,css,tailwind,python,git,github,vscode,linux,canva,figma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SonamNarula&show_icons=true&theme=radical" alt="Sonam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🧠 Geek Goals
-
-- 🧾 SSC CGL 2027 | Target: **ASO @ MEA**
-- 🧑‍💻 Mastering MERN Stack (Deployable Projects 🔥)
-- 📊 400+ LeetCode + CP grind
-- ✍️ Creative Content @ Literature Club
-- 🧑‍🏫 Mentoring juniors @ DevCrest JU
+### 🚀 Currently Working On
+- 🎯 Preparing for SSC CGL 2027 – Target: Assistant Section Officer @ MEA  
+- 💻 Building Mini Side Projects  
+- 📘 Uplifting 👶 juniors in CP & DSA  
+- ✍️ Content Writing & Event Management @ Literature Club  
+- 👩‍🏫 Mentoring @ DevCrest  
 
 ---
 
-## 📊 GitHub Stats (Dark Hacker Mode)
-
+### 🤝 Let’s Connect  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonamNarula&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180em"/>
+  <a href="mailto:sonamnarula2108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sonam-narula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🛡️ Club Credits
-
+### 🏆 Club Credits  
 <p align="center">
-  <img src="https://img.shields.io/badge/DevCrest-JU-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JIC-Incubation-orange?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Literature%20Club-Executive-yellow?style=for-the-badge&logo=bookstack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DevCrest-Core%20Member-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JECRC%20Incubation%20Centre-Core%20Team-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Literature%20Club-Executive-yellow?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌐 Let's Connect!
-
+### ☕ Fun Fact  
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonam-narula-402a60285/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/0PG2lf5S"><img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
-  <a href="mailto:sonamnarula2108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="250px" />
+  <br />
+  <i>"Who needs sleep when you’ve got a compiler and caffeine?"</i>
 </p>
 
 ---
 
-## ☕ Geek Quote for the Night Owls
-
-> _“Who needs sleep when you’ve got a compiler and caffeine?”_
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
+> _“I figure that the most proprietary software developers use copyright to stop users from sharing... we cooperationists use copyright to give other users an advantage of their own: they can use our code.”_  
+> — Richard Stallman  
 
