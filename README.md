@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hey there, I'm Sonam Narula! 🌸</h1>
+<h1 align="center">Sonam Narula</h1>
 
 <p align="center">
   <b>Code. Crack. Conquer. || MERN • Java • SSC Aspirant 🔥</b><br/>
@@ -7,44 +7,41 @@
 
 ---
 
-### 🌼 About Me
+### 👩‍💻 About Me
 
-- 🎓 CSE Undergrad @ JECRC University  
-- 💻 MERN Stack Developer | Java Enthusiast | DSA Explorer  
-- ✍️ SSC CGL Aspirant | Dream: ASO in Ministry of External Affairs  
-- ☕ Midnight coder powered by black coffee and big dreams  
-- 🧠 Placement Ready by 2026 | SSC Cleared by 2028 (Manifesting it!)
+- 🎓 Computer Science Engineering student at JECRC University  
+- 🧠 DSA Enthusiast | Java Programmer | MERN Stack Developer  
+- 🎯 SSC CGL Aspirant | Target: ASO, Ministry of External Affairs  
+- 🧾 Currently balancing Competitive Programming, Full-Stack Development, and Govt Exam Prep  
+- 🚀 Long-term goal: Build products that solve real problems & serve the nation
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### ✨ What I'm Up To
+### 🛠️ Current Focus
 
-- 📚 Preparing for SSC CGL — my childhood dream since 8th grade  
-- 🔥 Grinding MERN Stack & building cool projects  
-- 🎓 Keeping up with college academics and acing it all  
-- 💬 Mentoring juniors, managing events & writing content at JECRC  
-- 🤍 Off social media, focused on growth & glow-up  
+- 📚 **SSC CGL 2025** prep — daily commitment, consistent discipline  
+- 💻 **MERN stack projects** — hands-on, practical web development  
+- 🎓 **Academic excellence** — coursework, assignments, and fundamentals  
+- 🔄 Daily execution over occasional motivation
 
 ---
 
-### 🔗 Connect With Me
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonam-narula-402a60285/">
@@ -57,22 +54,31 @@
 
 ---
 
-### 💬 Life Motto
+### 🧠 Mindset
 
-> _"Do it so well that they can't ignore you.  
-> Do it for the ones who believe in you — and the one watching from above."_ 💫
+> “Discipline is choosing between what you want now and what you want most.”
+
+> “The goal is not just to be better than others — the goal is to be unrecognizable from who you were yesterday.”
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Sonam+Narula+is+unstoppable+🚀;SSC+%2B+MERN+%2B+Academics+Grind+ON+🔥;Manifesting+the+Impossible+by+2028+💖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=📍SSC+2025+Loading...+;📍MERN+Mastery+in+Progress...;📍Consistent+Execution+>+Short+Motivation;🧠+Sonam+Narula+-+Head+Down.+Work+On." alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  🖤 Focus Mode ON: No IG/Snap | Only WhatsApp (class) & LinkedIn  
-  💻 Midnight grind + black coffee = Sonam Mode Activated ☕  
-  ✨ Let’s turn dreams into destiny — one line of code at a time.
+  📵 Focus Mode: IG & Snap deactivated  
+  💬 Only WhatsApp (class updates) & LinkedIn  
+  🧑‍💻 Currently studying, building, and preparing — no distractions
+</p>
+
+---
+
+<p align="center">
+  ⚙️ This journey is mine.  
+  🎯 I'm not here to prove. I’m here to execute.  
+  🙏 For Papa. For Daadi. For the dream.  
 </p>
 
