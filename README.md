@@ -1,64 +1,48 @@
-<!-- HEADER TAGLINE -->
-<p align="center">
-  <img src="https://github.com/SonamNarula/SonamNarula/assets/000000007e9051f7af6913a4de5571f5/A_2D_digital_illustration_banner_features_a_cartoo.png" alt="Midnight Coder Banner" width="100%">
-</p>
+<!-- Title animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=From+Coding+to+Cabinet+–+I+Do+Both" alt="Typing SVG" />
+</h3>
 
-<h2 align="center">Hey there! 👋 I'm <span style="color:#ff5e5b">Sonam Narula</span></h2>
-<p align="center">👩🏻‍💻 Core Team @ DevCrest || 🧠 JECRC Incubation Centre || ✍️ Literature Club Executive</p>
-<p align="center"><i>“Codes at Midnight 🌙 | Caffeine in Hand ☕ | Ideas in Mind 💡”</i></p>
-
----
-
-### ⚙️ Tech Arsenal  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nodejs,express,mongodb,git,github,linux,vscode,figma,canva" />
-</p>
+<h1 align="center">Hey, I'm Sonam Narula 👩🏻‍💻</h1>
+<p align="center"><i>Focused. Nerdy. Coffee-Fueled. SSC & Software Warrior.</i></p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonamNarula&show_icons=true&theme=radical" alt="Sonam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+### 🧠 About Me
+```plaintext
+• 19 | CSE Undergrad @ JECRC University  
+• Code & Debug past midnight 🌙  
+• SSC CGL 2025 Aspirant (ASO @ Ministry of External Affairs)  
+• MERN Stack Explorer | CP Mentor | DevCrest Core  
+• Building dreams with DSA, logic & sleepless nights ☕
 
----
 
-### 🚀 Currently Working On
-- 🎯 Preparing for SSC CGL 2027 – Target: Assistant Section Officer @ MEA  
-- 💻 Building Mini Side Projects  
-- 📘 Uplifting 👶 juniors in CP & DSA  
-- ✍️ Content Writing & Event Management @ Literature Club  
-- 👩‍🏫 Mentoring @ DevCrest  
+⚙️ Tech Arsenal
+<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,express,mongodb,html,css,git,github,vscode,linux,canva,figma" /> </p>
+🔭 Currently Grinding On
+📚 SSC CGL 2025 – ASO @ MEA
 
----
+💻 MERN Projects – Real-world deployment ready
 
-### 🤝 Let’s Connect  
-<p align="center">
-  <a href="mailto:sonamnarula2108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sonam-narula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+🧠 DSA + CP – 250+ Leetcode Qs solved
 
----
+🏛️ Incubation Ops @ JECRC I.C.
 
-### 🏆 Club Credits  
-<p align="center">
-  <img src="https://img.shields.io/badge/DevCrest-Core%20Member-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JECRC%20Incubation%20Centre-Core%20Team-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Literature%20Club-Executive-yellow?style=for-the-badge" />
-</p>
+✍️ Event Content @ Literature Club
 
----
+📡 Let's Connect
+<p align="left"> <a href="https://www.linkedin.com/in/sonam-narula/"> <img src="https://img.shields.io/badge/LinkedIn-Sonam%20Narula-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://codolio.com/profile/0PG2lf5S"> <img src="https://img.shields.io/badge/Codolio-My%20Portfolio-0A0A0A?style=flat&logo=github&logoColor=white" /> </a> </p>
+🏷️ Club Credits
+🟪 DevCrest JU — Core Member & CP Mentor
 
-### ☕ Fun Fact  
-<p align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="250px" />
-  <br />
-  <i>"Who needs sleep when you’ve got a compiler and caffeine?"</i>
-</p>
+🟧 JECRC Incubation Centre — Core Operations Team
 
----
+🟨 Literature Club — Executive | Content & Coordination
 
-> _“I figure that the most proprietary software developers use copyright to stop users from sharing... we cooperationists use copyright to give other users an advantage of their own: they can use our code.”_  
-> — Richard Stallman  
-
+🧘‍♀️ Philosophy
+plaintext
+Copy
+Edit
+"Code what matters. Break what doesn’t.  
+Sleep is optional when goals are non-negotiable."
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer"/> </p> ```
