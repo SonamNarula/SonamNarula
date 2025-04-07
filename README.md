@@ -13,7 +13,6 @@
 - 💻 MERN Stack Developer | Java Enthusiast | DSA Explorer  
 - ✍️ SSC CGL Aspirant | Dream: ASO in Ministry of External Affairs  
 - ☕ Midnight coder powered by black coffee and big dreams  
-- 💙 Making Papa proud & dedicating everything to Daadi in heaven  
 - 🧠 Placement Ready by 2026 | SSC Cleared by 2028 (Manifesting it!)
 
 ---
