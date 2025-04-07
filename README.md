@@ -1,91 +1,80 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Midnight+Coder+🌙+|+SSC+CGL+2025+Aspirant+🎯;DSA+is+my+Love+Language+📊;+Coffee+is+my+Forever+☕;From+Coding+to+Cabinet+-+I+Do+Both!" alt="Typing SVG" />
+</p>
 
-<h1 align="center">🚀 Sonam Narula 🚀</h1>
+<h1 align="center">Hey there 👋 I'm Sonam Narula</h1>
 
 <p align="center">
-  <strong>Code. Crack. Conquer.</strong> || <code>MERN</code> • <code>Java</code> • <code>C++</code> • <code>SSC Aspirant</code> 🔥<br/>
-  <em>From Code Editor to Ministry Desk — Building Dreams Line by Line 💻⚡</em>
+  <i>💻 Core Member @ DevCrest | 🚀 Core @ JECRC Incubation Centre | ✨ Literature Club Executive</i><br>
+  <i>🌙 Code at Midnight | ☕ Coffee in Hand | 💡 Ideas in Mind</i>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/IFluCWY.png" width="80%"/> <!-- You can replace this with a custom banner -->
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 CSE undergrad @ JECRC University  
-- 💻 Full-stack Web Developer (MERN) | C++, Java & DSA Enthusiast  
-- 🏛️ SSC CGL Aspirant — Dream: ASO in Ministry of External Affairs  
-- 🔄 Balancing Government Exams, Development & Engineering Academics  
-- 🧠 Living by: **Grit > Talent | Focus > Flash**
-
----
-
-## 🛠️ Tech Stack & Tools
+## 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,react,nodejs,express,mongodb,html,css,tailwind,python,git,github,vscode,canva,figma,linux,vercel,netlify" />
 </p>
 
 ---
 
-## 📌 Focus Right Now
-
-- 🎯 **SSC CGL 2025** prep — next-level discipline, no distractions  
-- 🛠️ **MERN Projects** — real-world dev, deployments, and Git mastery  
-- 📚 **Engineering Subjects** — scoring top CGPA + mastering CS fundamentals  
-- ⏱️ **Consistency > Intensity** | Every. Single. Day.
-
----
-
-## 🔗 Connect With Me
+## 🏆 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonam-narula-402a60285/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codolio.com/profile/0PG2lf5S">
-    <img src="https://img.shields.io/badge/Codolio-Portfolio-%23A020F0?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SonamNarula&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&theme=radical" height="180em"/>
 </p>
 
 ---
 
-## 🧠 Quote Fuel
+## 🎯 Currently Working On
 
-> _“Discipline is the bridge between goals and accomplishment.”_  
-> — **Jim Rohn**
-
-> _“Grind in silence. Let success make the noise.”_
+- 🧠 Preparing for **SSC CGL 2025** — Target: **Assistant Section Officer @ MEA**
+- 💻 Building **MERN Stack Projects**
+- 📚 Upskilling in **Competitive Programming & DSA**
+- ✍️ Content Writing & Event Management @ Literature Club
+- 🤝 Mentoring Juniors @ DevCrest
 
 ---
 
+## 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=SSC+CGL+2025+Target+Locked...;MERN+Mastery+In+Progress...;Building+Everyday.+No+Excuses.;📍From+Code+to+Contribution+to+Civil+Service." alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/sonam-narula-402a60285/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/0PG2lf5S"><img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+  <a href="mailto:sonamnarula2108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👀 Currently
+## 👑 Club Badges
 
-- 🚫 IG & Snapchat — Deactivated  
-- 💬 Only Active: **WhatsApp (essential)** & **LinkedIn**  
-- 🎯 **Goal-mode ON** till **June 2025**
+<p align="center">
+  <img src="https://img.shields.io/badge/DevCrest-JU-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JIC-Incubation%20Centre-orange?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Literature%20Club-Executive-yellow?style=for-the-badge&logo=bookstack&logoColor=black"/>
+</p>
+
+---
+
+## 💬 Fun Fact
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+<p align="center"><b>“Who needs sleep when you’ve got a compiler and caffeine?”</b></p>
 
 ---
 
 <p align="center">
-  ✨ This journey is not just about me — it’s for everyone who believed. <br/>
-  💥 <b>Sonam Narula is coding her way to the Ministry desk.</b>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+
+
