@@ -65,11 +65,7 @@
 
 ---
 
-### ☕ About Me  
-> “Midnight coding girl 🌙💻 — Who needs sleep when caffeine ☕ and DSA 📊 are life?  
-> Love language: DSA ❤️, Soulmate: Coffee ☕.”
 
----
 
 ### 🧠 Quote of the Day  
 <p align="center">
