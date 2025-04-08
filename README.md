@@ -4,7 +4,7 @@
 </p>
 </p>
 
-<h2 align="center">Hey there! 👋 I'm <span style="color:#ff5e5b">Sonam Narula</span></h2>
+<h2 align="center">Hey there! 👋 I'm <span style="color:#ff5e5b">SONAM NARULA</span></h2>
 <p align="center">Code. Crack. Conquer. || MERN • Java • SSC Aspirant 🔥 </p>
 <p align="center"><i>From Code Editor to Ministry Desk — Building Dreams Line by Line 💻⚡</i></p>
 
@@ -20,7 +20,7 @@
 ### 🧠 Snapshot of Me  
 <p align="center">
  <img src="https://github.com/SonamNarula/DEMO/blob/main/IMG_9057.JPG?raw=true" width="300"/>
-📸 Snapshot of Me
+
 
 | 👩🏻‍💻 Title        | Details                              |
 |------------------|--------------------------------------|
@@ -52,25 +52,7 @@
 
 ---
 
-## 🪄 Journey So Far
 
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/SonamNarula/SonamNarula/main/path-to-![ChatGPT Image Apr 8, 2025, 12_24_50 AM](https://github.com/user-attachments/assets/85e630bb-031d-44ca-94ab-951a5e9c85e7)
-" width="300"/>
-    </td>
-    <td>
-      <ul>
-        <li>🏆 Solved <strong>350+ LeetCode</strong> Qs (1st Year)</li>
-        <li>💻 Completed <strong>C++ DSA Decode Batch</strong> by PWSkills</li>
-        <li>🧠 Mentored Juniors in <strong>CP @ DevCrest</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🤝 Let’s Connect  
 <p align="center">
