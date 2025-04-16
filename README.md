@@ -1,13 +1,10 @@
 <!-- 🚀 COOL ANIMATED BANNER -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=bb86fc&height=230&section=header&text=Sonam%20Narula%20👩🏻‍💻&fontSize=45&fontColor=ffffff&animation=twinkling" />
-  </p>
-  
-  <!-- HEADER TAGLINE -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=From%20Coding%20to%20Cabinet%20Do%20Both%20🧑‍💻🧳;Night%20Coder%20🌙%20||%20Future%20ASO%20@MEA%20🚀;Powered%20by%20Coffee%20and%20Code%20☕💻&font=Fira%20Code&center=true&width=700&height=45&color=bb86fc&vCenter=true&size=22&pause=1000" />
-  </p>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bb86fc&height=230&section=header&text=Sonam%20Narula%20👩🏻‍💻&fontSize=45&fontColor=ffffff&animation=twinkling" />
+</p>
+
+
+
 
 <h2 align="center">Hey there! 👋 I'm <span style="color:#ff5e5b">SONAM NARULA</span></h2>
 <p align="center">Code. Crack. Conquer. || MERN • Java • C++ • SSC Aspirant 🔥 </p>
