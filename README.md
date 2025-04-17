@@ -43,13 +43,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&theme=tokyonight&title_color=ff6a85&text_color=ffffff&bg_color=0d1117" width="47%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonamNarula&theme=tokyonight&background=0d1117&ring=ff6a85&fire=ff6a85&currStreakLabel=ffffff" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamNarula&theme=tokyonight" />
 </p>
+
 
 ---
 
