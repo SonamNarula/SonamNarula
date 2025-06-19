@@ -37,7 +37,7 @@
 ### 🔄 Active Loops
 
 <p align="center">
- <img src="https://github.com/SonamNarula/DEMO/blob/main/IMG_9057.JPG?raw=true" width="300" style="border-radius: 20px;"/>
+ <img src="https://github.com/SonamNarula/me/blob/main/456F68AB-7D57-4C0D-AB65-B1D8904F40D8.PNG?raw=true" width="250" style="border-radius: 20px;"/>
 </p>
 
 - 🎯 SSC CGL 2027 — Laser Locked.
@@ -47,19 +47,6 @@
 
 ---
 
-### 🔥 Reality Dump (Daily Cardio)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200px" />
-
-  <br />
-  <i>"SSC mocks at 6AM. Debugging crashes at 2AM. This is survival cardio."</i>
-</p>
-
----
-
-
----
 
 ### 🏅 Roles Unlocked
 
