@@ -85,7 +85,7 @@ const sonam = {
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub & Coding Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SonamNarula&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
@@ -94,6 +94,48 @@ const sonam = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonamNarula&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
+</div>
+
+### 💻 Competitive Programming Stats
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sonamnarula2005/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sonammnapaqc/)
+[![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/0PG2lf5S)
+
+</div>
+
+<div align="center">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&font=Nunito&ext=heatmap)
+
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sonammnapaqc&theme=dark" alt="GFG Stats" />
+
+</div>
+
+### 🎯 Codolio Performance
+<div align="center">
+
+```
+🔥 CODOLIO STATS 🔥
+┌─────────────────────────────────────┐
+│  Username: sonammnpaqc             │
+│  🏆 Coding Score: 1172             │
+│  📊 Problems Solved: 314           │
+│  📈 Monthly Score: 83              │
+│  ⚡ Current Streak: 250/1447 days  │
+├─────────────────────────────────────┤
+│  📝 Problem Breakdown:             │
+│  🟢 Easy: 72                       │
+│  🟡 Medium: 181                     │
+│  🔴 Hard: 35                       │
+│  🟣 Basic: 26                      │
+└─────────────────────────────────────┘
+```
+
+[![Visit My Codolio Profile](https://img.shields.io/badge/Visit%20Profile-6366F1?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/0PG2lf5S)
+
 </div>
 
 ---
@@ -134,6 +176,11 @@ const sonam = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonamnarula2108@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonam-narula/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SonamNarula)
+
+### 💡 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sonamnarula2005/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sonammnapaqc/)
+[![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/0PG2lf5S)
 
 </div>
 
