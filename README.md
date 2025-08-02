@@ -1,129 +1,306 @@
 <div align="center">
-  
-# 🌟 **SONAM NARULA** 🌟
-### *Frontend Developer • Problem Solver • Dream Executor*
 
-![Custom Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=200&section=header&text=SONAM%20NARULA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=No%20backup%20plan.%20It%20has%20to%20work.%20🔥&descAlignY=55&descSize=16)
+# ⚡ **SONAM NARULA** ⚡
+### *Code Architect • Digital Innovator • Future Builder*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Welcome+to+my+Digital+Playground+%F0%9F%8E%AE;Code+Architect+%7C+Algorithm+Enthusiast+%7C+Coffee+Addict;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12,20,25&height=300&section=header&text=SONAM%20NARULA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Transforming%20Ideas%20into%20Digital%20Reality%20✨&descAlignY=65&descSize=18)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 
 </div>
 
 ---
 
-## 🚀 About Me
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="300">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&height=80&lines=💻+Frontend+Wizard+%7C+Problem+Solver+Extraordinaire;🚀+1000%2B+DSA+Problems+Conquered+Across+All+Platforms;☕+Coffee+%2B+Code+%3D+Magic;🎯+SSC+CGL+2027+Aspirant+%7C+Multi-Dimensional+Achiever)
 
 </div>
 
-### 👨‍💻 **WHO AM I?**
+## 🎯 The Developer's Journey
 
-Hey there! I'm **Sonam** - a passionate frontend developer from India who believes in turning coffee into code and ideas into reality! ☕➡️💻
+<table>
+<tr>
+<td width="60%">
 
-🎯 **Currently juggling** between mastering the art of beautiful user interfaces and preparing for SSC CGL 2027 (because why choose one dream when you can chase two, right?). 
+### 🔥 **Current Chapter: The Multi-Quest**
 
-💡 **My coding philosophy?** *"No backup plan. It has to work."* 🔥 I dive headfirst into challenges, whether it's debugging a stubborn CSS layout or solving complex DSA problems.
+```javascript
+const sonamNarula = {
+    name: "Sonam Narula",
+    role: "Frontend Developer",
+    location: "India 🇮🇳",
+    mission: "Code by day, SSC prep by night",
+    philosophy: "No backup plan. It has to work. 🔥",
+    
+    currentFocus: [
+        "Mastering React & TypeScript",
+        "DSA Problem Solving (314+ conquered)",
+        "SSC CGL 2027 Preparation",
+        "Community Leadership"
+    ],
+    
+    lifeEquation: "☕ + 💻 + 📚 = Success",
+    
+    futureGoals: {
+        tech: "Full-Stack Mastery",
+        career: "Government Officer",
+        impact: "Mentor 1000+ developers"
+    }
+};
 
-🌟 **What drives me:** Every morning starts with coffee ☕ and ends with a new skill learned. I'm that person who gets genuinely excited about clean code, pixel-perfect designs, and those satisfying green commits on GitHub.
-
-### 🚀 **THE JOURNEY SO FAR...**
-
-```bash
-$ whoami
-> Frontend Developer | Problem Solver | Dream Chaser
-
-$ cat current_status.txt
-> 🎨 Crafting beautiful React components
-> 📊 Solving 314+ coding problems and counting...
-> 🎯 SSC CGL 2027 preparation mode: ON
-> 🌱 Expanding into full-stack territory
-
-$ echo $NEXT_GOAL
-> "Become a full-stack wizard while acing government exams!"
+console.log("Welcome to my digital universe! 🌟");
 ```
 
-### 🎭 **BEYOND THE CODE**
+### 🎭 **Beyond the Screen**
 
-When I'm not making pixels dance or algorithms sing, you'll find me:
-- 🎤 **Mentoring students** at DevCrest 
-- 📚 **Campus Ambassador** for takeUforward community (once their student, nd now the part of their team)  
-- 📖 **Buried in SSC books** Always dreamt to be an officer
+🎯 **takeUforward Campus Ambassador** - From student to team member!  
+🏆 **DevCrest Core Member** - Mentoring the next generation  
+📚 **JIC Core Team** - Building communities that matter  
+✍️ **Lit Club Executive** - Where creativity meets code  
 
-### ⚡ **CURRENT MISSION STATUS**
-
-🎯 **SSC CGL 2027:** Preparation in full swing <br>
-👩🏻‍💻 **DSA:** 1000+ problems solved across GFG, LeetCode, and Code Studio <br>
-💻 **Frontend Mastery:** React, TypeScript, and modern web magic  
-🌱 **Backend Learning:** Node.js and databases (the plot thickens!)  
-
+</td>
+<td width="40%">
 
 <div align="center">
 
-### 🎯 **Fun Facts About Me**
-  
-🔥 **Frontend Enthusiast:** Creating beautiful, responsive user interfaces  
-🧠 **Problem Solver:** Love tackling DSA challenges and logical puzzles  
-📚 **Multi-tasker:** Frontend development by day, SSC prep by night  
-🎮 **Code Explorer:** Every new technology feels like discovering a new world  
-🌱 **Growth Mindset:** Currently expanding into full-stack development  
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280">
+
+### ⚡ **Quick Stats**
+```
+🎯 Problems Solved: 314+
+🔥 GitHub Streak: Active
+☕ Coffee Consumed: ∞
+📚 SSC Prep Hours: 1000+
+🌟 Communities Led: 4
+💡 Projects Built: 20+
+```
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛡️ Arsenal of Skills
+
+<div align="center">
+
+### 🎨 **Frontend Mastery**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🧠 **Problem Solving**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌱 **Expanding Horizons**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ **Developer Toolkit**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&custom_title=Sonam's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SonamNarula&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="100%"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SonamNarula&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="60%"/>
+
+</div>
+
+---
+
+## ⚔️ Coding Battlegrounds
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🎨 Frontend Mastery
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-</p>
+### 🏅 **LeetCode Arena**
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sonamnarula2005/)
 
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React`
-
----
-
-### 🌱 Currently Learning
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-`Node.js` `Express.js` `MongoDB` `MySQL`
+![LeetCode Stats](https://leetcard.jacoblin.cool/sonamnarula2005?theme=unicorn&font=Nunito&ext=contest)
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🚀 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-</p>
+### 💚 **GeeksforGeeks**
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sonammnapaqc/)
 
-`Python` `Java` `C` `C++`
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sonammnapaqc&theme=radical" alt="GFG Stats" />
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 **Codolio Champions**
+[![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/0PG2lf5S)
+
+**Score:** `1,172` 🚀  
+**Problems:** `314` ⚔️  
+**Streak:** `250/1,447` 🔥  
+**Success Rate:** `87.3%` 📊
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🏆 **Problem Solving Analytics**
+
+<div align="center">
+
+```
+        🎯 CODING MASTERY PROGRESSION
+    ╔══════════════════════════════════════╗
+    ║                                      ║
+    ║  🟢 Easy      ████████████░░░  72    ║
+    ║  🟡 Medium    ███████████████░ 181   ║
+    ║  🔴 Hard      ████████░░░░░░░  35    ║
+    ║  🟣 Basic     ██████░░░░░░░░░  26    ║
+    ║                                      ║
+    ║  ⚡ Total Conquered: 314 Problems    ║
+    ║  🎯 Daily Average: 2.1 Solutions    ║
+    ║  📈 Monthly Growth: +15%             ║
+    ╚══════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
-### 🔧 Developer Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
-</p>
+## 🎯 Mission Command Center
 
-`Git` `GitHub` `VS Code` `Linux` `Figma`
+<div align="center">
+
+### 🚀 **Active Missions**
+
+<table>
+<tr>
+<th>🎭 Mission</th>
+<th>⚡ Status</th>
+<th>🔥 Priority</th>
+<th>📅 Target</th>
+</tr>
+<tr>
+<td>🎯 SSC CGL 2027 Mastery</td>
+<td><code>████████░░</code> 80%</td>
+<td>🔴 CRITICAL</td>
+<td>2027</td>
+</tr>
+<tr>
+<td>🚀 Full-Stack Evolution</td>
+<td><code>█████░░░░░</code> 50%</td>
+<td>🟠 HIGH</td>
+<td>Q4 2025</td>
+</tr>
+<tr>
+<td>📚 takeUforward Ambassador</td>
+<td><code>██████████</code> 100%</td>
+<td>🟢 ACTIVE</td>
+<td>Ongoing</td>
+</tr>
+<tr>
+<td>🎤 DevCrest Mentoring</td>
+<td><code>████████░░</code> 85%</td>
+<td>🟡 MEDIUM</td>
+<td>Continuous</td>
+</tr>
+<tr>
+<td>🌟 Open Source Impact</td>
+<td><code>██████░░░░</code> 60%</td>
+<td>🟡 MEDIUM</td>
+<td>Q3 2025</td>
+</tr>
+</table>
+
+### 🎪 **Skills In Development**
+
+<img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,vue,svelte,tailwind,docker,aws,firebase,graphql,redis,postgresql,nginx" />
+
+</div>
+
+---
+
+## 🌟 Leadership & Impact
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+![takeUforward](https://img.shields.io/badge/takeUforward-Campus%20Ambassador-FF4B4B?style=for-the-badge&logoColor=white)
+
+**🎓 Role:** Ambassador  
+**👥 Impact:** 500+ students  
+**⭐ Achievement:** Top performer
+
+</td>
+<td align="center" width="25%">
+
+![DevCrest](https://img.shields.io/badge/DevCrest-Core%20Member-6366F1?style=for-the-badge&logoColor=white)
+
+**🏆 Role:** Core Member  
+**🎯 Focus:** DSA Coaching  
+**📈 Growth:** 200+ mentees
+
+</td>
+<td align="center" width="25%">
+
+![JIC](https://img.shields.io/badge/JIC-Core%20Team-FF6B35?style=for-the-badge&logoColor=white)
+
+**🌟 Role:** Core Team  
+**💡 Vision:** Innovation  
+**🚀 Projects:** 10+ events
+
+</td>
+<td align="center" width="25%">
+
+![Lit Club](https://img.shields.io/badge/Lit%20Club-Executive-FFD60A?style=for-the-badge&logoColor=black)
+
+**✍️ Role:** Executive  
+**📚 Content:** Monthly  
+**🎨 Creativity:** Unlimited
 
 </td>
 </tr>
@@ -133,188 +310,49 @@ When I'm not making pixels dance or algorithms sing, you'll find me:
 
 ---
 
-## 📊 Advanced GitHub Analytics
+## 🤝 Connect & Collaborate
 
 <div align="center">
 
-### 🎯 **Performance Dashboard**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamNarula&theme=github_dark" width="100%"/>
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SonamNarula&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonamNarula&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
-</div>
-
-### 📈 **Detailed Analytics**
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SonamNarula&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SonamNarula&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SonamNarula&theme=github_dark" width="32%"/>
-
-</div>
-
-### 🕐 **Coding Activity**
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SonamNarula&theme=github_dark" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&hide_border=true" width="49%"/>
-
-</div>
-
----
-
-## 💻 Competitive Programming Journey
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sonamnarula2005/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sonammnapaqc/)
-[![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/0PG2lf5S)
-
-</div>
-
-<div align="center">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&font=Nunito&ext=heatmap)
-
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sonammnapaqc&theme=dark" alt="GFG Stats" />
-
-</div>
-
-### 🏆 **Codolio Achievement Board**
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
-
-| 🎯 **Metric** | 📊 **Value** | 🔥 **Status** |
-|:-------------|:------------|:-------------|
-| **Total Score** | `1,172` 🚀 | Rising Fast |
-| **Problems Conquered** | `314` ⚔️ | Problem Slayer |
-| **Monthly Score** | `83` 📈 | Consistent |
-| **Current Streak** | `250/1,447 days` 🔥 | Fire Mode |
-
-### 📊 **Problem Distribution Breakdown**
-
-```
-🎯 DIFFICULTY MASTERY CHART
-╭─────────────────────────────────────────╮
-│                                         │
-│  🟢 Easy     ████████████░░░░░░  72     │
-│  🟡 Medium   █████████████████░░ 181    │
-│  🔴 Hard     ████████░░░░░░░░░░  35     │
-│  🟣 Basic    ██████░░░░░░░░░░░░  26     │
-│                                         │
-│  🎯 Total Problems Solved: 314         │
-│  📊 Success Rate: 87.3%                │
-│  ⚡ Average Daily: 2.1 problems        │
-╰─────────────────────────────────────────╯
-```
-
-[![Explore My Codolio Journey](https://img.shields.io/badge/🚀%20Explore%20My%20Journey-6366F1?style=for-the-badge&logo=rocket&logoColor=white)](https://codolio.com/profile/0PG2lf5S)
-
-</div>
-
----
-
-## 🎯 Current Missions
-
-<div align="center">
-
-### 🚀 **Mission Control Center**
-
-| 🎯 **Mission** | 📊 **Progress** | 🔥 **Priority** | ⏱️ **Timeline** |
-|:--------------|:---------------|:---------------|:---------------|
-| **SSC CGL 2027 Prep** | `████████░░` 80% | `🔥 CRITICAL` | 2027 |
-| **takeUforward Ambassador** | `██████████` 100% | `🔥 HIGH` | Ongoing |
-| **DevCrest DSA Coaching** | `████████░░` 85% | `🟡 MEDIUM` | Ongoing |
-| **Lit Club Content Creation** | `██████░░░░` 60% | `🟡 MEDIUM` | Monthly |
-| **Open Source Contributions** | `█████░░░░░` 50% | `🟢 LOW` | Continuous |
-| **Full-Stack Journey** | `█████░░░░░` 50% | `🔥 HIGH` | 2025 |
-
-### 🎪 **Skills Under Development**
-
-<img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,docker,kubernetes,aws,firebase,graphql,redis" />
-
-</div>
-
----
-
-## 🏆 Leadership & Community Impact
-
-<div align="center">
-
-![takeUforward](https://img.shields.io/badge/takeUforward-Campus%20Ambassador-FF4B4B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
-![DevCrest](https://img.shields.io/badge/DevCrest-Core%20Member-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
-![JIC](https://img.shields.io/badge/JIC-Core%20Team-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
-![Lit Club](https://img.shields.io/badge/Lit%20Club-Executive-FFD60A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
-
-### 🎵 **My Coding Playlist**
-
-<div align="center">
-
-[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/sonamnarula)
-
-*"Good code needs good music. Here's what keeps my creativity flowing!"*
-
-</div>
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-### 📫 **Reach Out To Me**
+### 📡 **Digital Channels**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonamnarula2108@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonam-narula/)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/sonamnarula)
 
-### 💻 **Coding Battlegrounds**
+### 💻 **Coding Arenas**
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sonamnarula2005/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sonammnapaqc/)
 [![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/0PG2lf5S)
 
-### 🎯 **Looking For:**
-- 🤝 **Collaboration on innovative projects**
-- 💡 **Open source contribution opportunities**
-- 🎓 **Knowledge exchange & learning together**
-- 🚀 **Building something amazing together**
-
-</div>
-
----
-
-## 🎭 Developer Wisdom
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-### 💭 **My Philosophy**
-
-> *"Code is not just about solving problems, it's about crafting digital poetry that future developers will read and appreciate."*
-
-```ascii
-    🚀 Dream Big    💻 Code Smart    🔥 Execute Bold
-         │              │              │
-         └─────── 🌟 SUCCESS 🌟 ───────┘
+### 🎯 **Collaboration Opportunities**
+```
+🚀 Open Source Projects    🎓 Mentorship Programs
+💡 Innovative Solutions    🤝 Tech Partnerships  
+📚 Knowledge Sharing       🌟 Community Building
 ```
 
-**Remember:** *Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown.*
+</div>
+
+---
+
+## 💭 Philosophy & Inspiration
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### 🌟 **Core Beliefs**
+
+> *"Every line of code is a step towards the future. Every problem solved is a door opened for others."*
+
+```ascii
+    🎯 VISION          💻 EXECUTION       🌟 IMPACT
+       │                   │                │
+       └─────────── SUCCESS FORMULA ───────┘
+```
+
+**Life Motto:** *"Dream fearlessly. Code passionately. Achieve relentlessly."*
 
 </div>
 
@@ -322,12 +360,18 @@ When I'm not making pixels dance or algorithms sing, you'll find me:
 
 <div align="center">
 
-### 🎉 **Thanks for visiting my digital space!**
+### 🎉 Thank You for Visiting My Digital Space!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SonamNarula&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/SonamNarula)
+**Let's build something amazing together!** Whether it's code, community, or connections - I'm always excited to collaborate with fellow dreamers and builders.
 
-**⭐ Star some repositories if you found them interesting!**
+<img src="https://komarev.com/ghpvc/?username=SonamNarula&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+
+⭐ **If you find my work interesting, don't forget to star some repositories!**
+
+---
+
+*"In a world full of possibilities, be the one who turns them into reality."* ✨
 
 </div>
