@@ -4,8 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1600&color=C084FC&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;485%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;SPC+Intern+%40+JECRC+University%2C+Jaipur+%E2%9C%85;Building+Real+Products+That+Actually+Work+%F0%9F%9B%A0%EF%B8%8F;Open+for+On-site+Internship+%E2%86%92+Bangalore+%2F+Hyderabad)](https://github.com/SonamNarula)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1600&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+MERN+Stack+and+Building+Real+Projects+%F0%9F%9A%80;485%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;SPC+Intern+%40+JECRC+University%2C+Jaipur+%E2%9C%85;Consistently+Showing+Up+Every+Day+%F0%9F%92%AA;Open+for+On-site+Internship+%E2%86%92+Bangalore+%2F+Hyderabad)](https://github.com/SonamNarula)
 </div>
 
 ---
@@ -107,28 +106,33 @@
 
 ---
 
-## 🚀 Projects That Hit Different
+## 🚀 Projects That Hit Different  
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  $ ls -la ~/projects/shipped/                                               │
-├───────────────────┬──────────────────────────────────────────┬─────────────┤
-│  PROJECT          │  WHAT IT DOES                            │  STACK      │
-├───────────────────┼──────────────────────────────────────────┼─────────────┤
-│  Trackify 💜      │  Student productivity suite — DSA        │  MERN       │
-│  [DEPLOYED]       │  tracker, study hours, task manager      │  Deployed   │
-├───────────────────┼──────────────────────────────────────────┼─────────────┤
-│  NeuroNews        │  Live news aggregator, infinite scroll,  │  React      │
-│                   │  category filters & REST API             │  Node.js    │
-├───────────────────┼──────────────────────────────────────────┼─────────────┤
-│  Nike Store       │  Full e-commerce — cart, auth, orders,   │  MERN       │
-│                   │  JWT auth, Redux state management        │  Redux      │
-├───────────────────┼──────────────────────────────────────────┼─────────────┤
-│  SwiftMind        │  Minimal AI chat interface               │  React      │
-│                   │  clean UX meets powerful AI              │  AI API     │
-├───────────────────┼──────────────────────────────────────────┼─────────────┤
-│  UI Clones        │  Pixel-perfect brand recreations         │  HTML · CSS │
-└───────────────────┴──────────────────────────────────────────┴─────────────┘
+> built with what I know. improving with what I learn next.
+
+```bash
+$ ls ~/projects/shipped
+
+
+
+┌───────────────────┬──────────────────────────────────────────────┬──────────────┐
+│ PROJECT           │ DESCRIPTION                                  │ STACK        │
+├───────────────────┼──────────────────────────────────────────────┼──────────────┤
+│ Trackify 💜       │ Student productivity system                  │ React · TS   │
+│ [LIVE]            │ DSA tracking · study hours · task manager    │ Vite · JS    │
+├───────────────────┼──────────────────────────────────────────────┼──────────────┤
+│ NeuroNews         │ Real-time news platform                      │ React · JS   │
+│                   │ infinite scroll · filters · REST API         │              │
+├───────────────────┼──────────────────────────────────────────────┼──────────────┤
+│ Nike Store        │ E-commerce frontend                          │ React · JS   │
+│                   │ product pages · cart · state logic           │              │
+├───────────────────┼──────────────────────────────────────────────┼──────────────┤
+│ SwiftMind         │ AI chat interface                            │ React · JS   │
+│                   │ minimal UI · API integration                 │              │
+├───────────────────┼──────────────────────────────────────────────┼──────────────┤
+│ UI Clones         │ Pixel-perfect UI recreations                 │ HTML · CSS   │
+│                   │ layout · responsiveness                      │ JS           │
+└───────────────────┴──────────────────────────────────────────────┴──────────────┘
 ```
 
 ---
