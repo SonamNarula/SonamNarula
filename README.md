@@ -15,6 +15,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="./assets/quote.svg" />
+</div>
 
 ## 💫 About Me
 
