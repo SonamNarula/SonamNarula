@@ -1,0 +1,28 @@
+<svg width="100%" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&amp;display=swap');
+    .bg { fill: #0d001a; }
+    .line1 { font-family: 'Fira Code', monospace; font-size: 18px; fill: #c084fc; font-weight: 500;
+      animation: fadeUp 0.8s ease forwards; opacity: 0; animation-delay: 0.2s; }
+    .line2 { font-family: 'Fira Code', monospace; font-size: 18px; fill: #a855f7; font-weight: 400;
+      animation: fadeUp 0.8s ease forwards; opacity: 0; animation-delay: 0.7s; }
+    .line3 { font-family: 'Fira Code', monospace; font-size: 14px; fill: #7c3aed; font-weight: 400;
+      animation: fadeUp 0.8s ease forwards; opacity: 0; animation-delay: 1.2s; }
+    .bar { fill: #c084fc; }
+    .cursor { fill: #c084fc; animation: blink 1s step-end infinite; animation-delay: 2s; }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+  </style>
+
+  <rect width="680" height="180" rx="12" class="bg"/>
+  <rect x="40" y="38" width="3" height="104" rx="1" class="bar"/>
+
+  <text x="60" y="68" class="line1">not rushing, not stopping either.</text>
+  <text x="60" y="102" class="line2">building things that outgrow me.</text>
+  <text x="60" y="132" class="line3">dsa as discipline · jaipur → wherever effort compounds</text>
+
+  <rect x="60" y="148" width="1" height="16" rx="1" class="cursor"/>
+</svg>
