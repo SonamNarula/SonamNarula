@@ -129,8 +129,7 @@ $ ls ~/projects/shipped
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SonamNarula&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+![Metrics](https://raw.githubusercontent.com/SonamNarula/SonamNarula/main/metrics.svg)
 ---
 
 ## ⚔️ DSA Grind
