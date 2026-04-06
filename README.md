@@ -129,11 +129,7 @@ $ ls ~/projects/shipped
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SonamNarula&locale=en&mode=daily&hide_border=true&background=0d001a&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=a78bfa&dates=7c3aed&currStreakNum=c084fc&sideNums=c084fc&border_radius=8" />
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SonamNarula&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
