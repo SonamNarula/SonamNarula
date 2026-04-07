@@ -126,6 +126,9 @@ $ ls ~/projects/shipped
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SonamNarula&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&fire=FF6B35&ring=A855F7&currStreakLabel=A855F7" />
+</p>
 
 <br/>
 
