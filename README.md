@@ -4,14 +4,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1600&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+MERN+Stack+and+Building+Real+Projects+%F0%9F%9A%80;485%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;SPC+Intern+%40+JECRC+University%2C+Jaipur+%E2%9C%85;Consistently+Showing+Up+Every+Day+%F0%9F%92%AA;Open+for+On-site+Internship+%E2%86%92+Bangalore+%2F+Hyderabad)](https://github.com/SonamNarula)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1600&color=C084FC&center=true&vCenter=true&width=700&lines=CSE+%40+JECRC+University+%C2%B7+2023-27;Built+Trackify+%E2%80%94+live+%26+deployed+%F0%9F%9A%80;1000%2B+DSA+problems+across+platforms+%F0%9F%94%A5;Learning+MERN+%7C+Data+Analytics+%7C+System+Design;Open+for+On-site+SDE+Internship+%E2%86%92+2026)](https://github.com/SonamNarula)
 
-
-<div align="center">
-
-> *"Consistency is the bridge between goals and accomplishment."*
-
-</div>
 <br/>
 
 <a href="https://github.com/SonamNarula">
@@ -21,6 +15,7 @@
 </div>
 
 ---
+
 <div align="center">
   <img src="./assets/quote.svg" />
 </div>
@@ -43,8 +38,8 @@ class SonamNarula extends Developer {
 
 export default new SonamNarula();
 ```
----
 
+---
 
 ## 🏅 GitHub Trophies
 
@@ -54,9 +49,7 @@ export default new SonamNarula();
 
 </div>
 
-
 ---
-
 
 ## 🛠️ Tech Arsenal
 
@@ -92,7 +85,6 @@ export default new SonamNarula();
 
 </div>
 
-
 ---
 
 ## 🔥 SIGNATURE PROJECTS
@@ -114,7 +106,7 @@ STACK  : React · JavaScript · Vite · CSS
 
 **What it does:**
 - 📊 DSA solve tracker with daily streaks
-- ⏱️ Study hours & session logging  
+- ⏱️ Study hours & session logging
 - ✅ Task manager with deadlines
 - 📈 Progress dashboard — see your growth visually
 - 🎓 Built as college minor project · actually works · actually shipped
@@ -171,31 +163,21 @@ STACK  : HTML · CSS · JavaScript
 </tr>
 </table>
 
-
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SonamNarula&show_icons=true&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=a855f7&border_radius=12&count_private=true&include_all_commits=true&rank_icon=percentile" height="165" />
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=6" height="165" />
 
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=SonamNarula&theme=midnight-purple&hide_border=true&background=0d0020&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&border_radius=12" height="165" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/SonamNarula)
 
-
-
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=6" height="150" />
-
-
-![Metrics](https://raw.githubusercontent.com/SonamNarula/SonamNarula/main/github-metrics.svg)
 </div>
-</div>
-
 
 ---
 
@@ -207,7 +189,7 @@ STACK  : HTML · CSS · JavaScript
 
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-485_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a2e)](https://leetcode.com/u/sonamnarula2005/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1000+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a2e)](https://leetcode.com/u/sonamnarula2005/)
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-Daily_Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0a2e)](https://www.geeksforgeeks.org/profile/sonammnapaqc)
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-c084fc?style=for-the-badge&labelColor=1a0a2e)](https://codolio.com/profile/0PG2lf5S)
 
@@ -233,13 +215,13 @@ STACK  : HTML · CSS · JavaScript
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/SonamNarula)
 
+
 ---
 
 ## 📡 Find Me
 
 <div align="center">
 
-<div align="center">
 <a href="https://www.linkedin.com/in/sonam-narula-402a60285/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -251,16 +233,13 @@ STACK  : HTML · CSS · JavaScript
 <a href="mailto:sonamnarula2108@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+&nbsp;
 <a href="https://codolio.com/profile/0PG2lf5S">
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
-</div>
-
-
-
-
 
 </div>
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:1a0a2e,100:0d001a&height=100&section=footer" />
