@@ -177,6 +177,8 @@ STACK  : HTML · CSS · JavaScript
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/SonamNarula)
 
+![Metrics](https://raw.githubusercontent.com/SonamNarula/SonamNarula/main/github-metrics.svg)
+
 </div>
 
 ---
