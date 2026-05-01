@@ -18,3 +18,33 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+
+          # 🔥 LeetCode Stats
+          plugin_leetcode: yes
+          plugin_leetcode_user: sonamnarula2005
+          plugin_leetcode_sections: solved, skills, recent
+
+          # 📅 Contribution Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # 🌟 Most Used Languages
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: lines, percentage
+          plugin_languages_threshold: 0%
+
+          # 🏆 Achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_display: compact
+
+          # 📊 Coding Habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          # 🎯 Stars given
+          plugin_stars: yes
+          plugin_stars_limit: 3
