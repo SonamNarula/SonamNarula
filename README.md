@@ -6,6 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1600&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+MERN+Stack+and+Building+Real+Projects+%F0%9F%9A%80;485%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;SPC+Intern+%40+JECRC+University%2C+Jaipur+%E2%9C%85;Consistently+Showing+Up+Every+Day+%F0%9F%92%AA;Open+for+On-site+Internship+%E2%86%92+Bangalore+%2F+Hyderabad)](https://github.com/SonamNarula)
 
+
+<div align="center">
+
+> *"Consistency is the bridge between goals and accomplishment."*
+
+</div>
 <br/>
 
 <a href="https://github.com/SonamNarula">
@@ -186,7 +192,7 @@ STACK  : HTML · CSS · JavaScript
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=6" height="150" />
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamNarula&theme=2077" width="100%"/>
+![Metrics](https://raw.githubusercontent.com/SonamNarula/SonamNarula/main/github-metrics.svg)
 </div>
 </div>
 
