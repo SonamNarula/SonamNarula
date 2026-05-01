@@ -179,10 +179,14 @@ STACK  : HTML · CSS · JavaScript
 
 <img src="https://streak-stats.demolab.com/?user=SonamNarula&theme=midnight-purple&hide_border=true&background=0d0020&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&border_radius=12" height="165" />
 
+
+
 <br/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=6" height="150" />
 
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamNarula&theme=2077" width="100%"/>
 </div>
 </div>
 
