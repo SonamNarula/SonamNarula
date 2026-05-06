@@ -26,6 +26,7 @@
 class SonamNarula extends Developer {
 
     university = "CSE @ JECRC University, Jaipur  ·  2023–27";
+    dsa        = { solved: "1000+ across LeetCode · GFG · Codolio", lang: "C++" };
     built      = "Trackify — student productivity suite · live & deployed";
     dsa        = { solved: "1000+ across LeetCode · GFG · Codolio", lang: "C++" };
     current    = ["CRT — Campus Recruitment Training", "Data Analytics", "Stronger DSA"];
@@ -172,6 +173,7 @@ STACK  : HTML · CSS · JavaScript
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SonamNarula&show_icons=true&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=a855f7&border_radius=12&count_private=true&include_all_commits=true&rank_icon=percentile" height="165" />
 &nbsp;
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=6" height="165" />
+<img src="https://streak-stats.demolab.com?user=SonamNarula&theme=dark&hide_border=true&background=0d0020&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=a855f7&currStreakNum=c084fc&sideNums=a855f7&dates=6b21a8&border_radius=12" height="165" />
 
 <br/><br/>
 
@@ -189,9 +191,11 @@ STACK  : HTML · CSS · JavaScript
 
 <img src="https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&border=0&radius=8&ext=heatmap" />
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-488-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a2e)](https://leetcode.com/u/sonamnarula2005/)
+
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1000+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a2e)](https://leetcode.com/u/sonamnarula2005/)
+[![DSA Total](https://img.shields.io/badge/DSA_Total-1000%2B_across_platforms-c084fc?style=for-the-badge&labelColor=1a0a2e)](https://codolio.com/profile/0PG2lf5S)
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-Daily_Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0a2e)](https://www.geeksforgeeks.org/profile/sonammnapaqc)
 [![Codolio](https://img.shields.io/badge/Codolio-Portfolio-c084fc?style=for-the-badge&labelColor=1a0a2e)](https://codolio.com/profile/0PG2lf5S)
 
