@@ -12,7 +12,9 @@
 
 <br/><br/>
 
-*"Self-belief and hard work will always earn you success."*
+I train every day.
+I build real things.
+I grind DSA like it is pre-season.
 
 </div>
 
@@ -287,22 +289,6 @@ Deliberate practice. Not copying for the sake of it — deconstructing how real 
 
 ---
 
-## 🟩 Every Green Square is a Promise Kept
-
-<div align="center">
-
-*Consistency is not motivation. It is discipline.*
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SonamNarula/SonamNarula/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SonamNarula/SonamNarula/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SonamNarula/SonamNarula/output/github-snake-dark.svg" />
-</picture>
-
----
-
 ## $ ping sonam
 
 <div align="center">
@@ -324,6 +310,17 @@ Deliberate practice. Not copying for the sake of it — deconstructing how real 
 </a>
 
 </div>
+
+---
+
+
+## Contribution Arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
