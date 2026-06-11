@@ -1,86 +1,99 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0010,30:1a0a2e,60:0d0020,100:0a0010&height=300&section=header&text=Sonam%20Narula&fontSize=85&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=MERN%20Stack%20Dev%20%7C%20DSA%20Grinder%20%7C%20Ship%20First%2C%20Sleep%20Later&descColor=a855f7&descSize=20&descAlignY=65&stroke=c084fc&strokeWidth=2" />
-
-<br clear="both">
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1600&color=C084FC&center=true&vCenter=true&width=700&lines=CSE+%40+JECRC+University+%C2%B7+2023-27;Built+Trackify+%E2%80%94+live+%26+deployed+%F0%9F%9A%80;1000%2B+DSA+problems+across+platforms+%F0%9F%94%A5;Learning+MERN+%7C+Data+Analytics+%7C+System+Design;Open+for+On-site+SDE+Internship+%E2%86%92+2026)](https://github.com/SonamNarula)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0e1a,25:131425,60:0d0e1a,100:0d0e1a&height=310&section=header&text=Sonam%20Narula&fontSize=82&fontColor=7aa2f7&animation=fadeIn&fontAlignY=43&desc=Ships%20real%20code%20%C2%B7%20Grinds%20DSA%20daily%20%C2%B7%20Trains%20like%20it%27s%20a%20sport%20%C2%B7%20Final%20Year%20CSE&descColor=bb9af7&descSize=17&descAlignY=64&stroke=7aa2f7&strokeWidth=1" />
 
 <br/>
 
-<a href="https://github.com/SonamNarula">
-  <img src="https://komarev.com/ghpvc/?username=SonamNarula&style=for-the-badge&color=c084fc&label=PROFILE+VIEWS&labelColor=1a0a2e" />
-</a>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=7AA2F7&center=true&vCenter=true&width=780&lines=CodeFusion+%E2%80%94+Real-Time+Collaborative+Editor+%7C+Built+From+Scratch+%E2%9A%A1;Trackify+%E2%80%94+Productivity+Suite+%7C+Live+%26+Used+Daily+%F0%9F%9A%80;NeuroNews+%E2%80%94+Live+News+Aggregator+%7C+React+%2B+REST+API;UI+Clones+%E2%80%94+Pixel-Perfect+Frontend+Craft+%7C+Built+to+Understand;1000%2B+DSA+Problems+Solved+%C2%B7+Still+Grinding+%F0%9F%94%A5;Final+Year+CSE+%40+JECRC%2C+Jaipur+%C2%B7+CRT+Full+Focus+Mode)](https://github.com/SonamNarula)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SonamNarula&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS&labelColor=131425" />
+
+<br/><br/>
+
+*"Self-belief and hard work will always earn you success."*
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="./assets/quote.svg" />
-</div>
+## $ whoami
 
-## 💫 About Me
+*Final year CS student who treats coding like a sport.*
+*I train every day. I build real things. I grind DSA like it is pre-season.*
+*The projects, the commits, the numbers — they do not lie.*
 
-```ts
-class SonamNarula extends Developer {
+```yaml
+name    : Sonam Narula
+degree  : B.Tech CSE  —  JECRC University, Jaipur  [2023–27]
+year    : Final Year
 
-    university = "CSE @ JECRC University, Jaipur  ·  2023–27";
-    dsa        = { solved: "1000+ across LeetCode · GFG · Codolio", lang: "C++" };
-    built      = "Trackify — student productivity suite · live & deployed";
-    dsa        = { solved: "1000+ across LeetCode · GFG · Codolio", lang: "C++" };
-    current    = ["CRT — Campus Recruitment Training", "Data Analytics", "Stronger DSA"];
-    openTo     = "On-site SDE Internship  →  Bangalore / Hyderabad  ·  2026";
+currently:
+  - CRT  (Campus Recruitment Training)  — full focus mode
+  - DSA  — 1000+ done, still going every single morning
+  - System Design  — patterns, tradeoffs, first principles
+  - Data Analytics — adding another weapon to the arsenal
 
-    reach() {
-        return "sonamnarula2108@gmail.com";
-    }
-}
+shipped:
+  CodeFusion : "real-time collaborative code editor  [Socket.io + Monaco · Live]"
+  Trackify   : "student productivity suite            [Vite + React · Live]"
 
-export default new SonamNarula();
+building:
+  NeuroNews  : "live news aggregator                  [React + REST API]"
+  UI Clones  : "pixel-perfect frontend reproductions  [HTML · CSS · JS]"
+
+dsa:
+  total    : 1000+
+  leetcode : 488
+  language : C++
+  platforms: [LeetCode, GFG, Codolio]
+
+mindset  : "show up every day, whether it counts or not — it always counts"
+contact  : sonamnarula2108@gmail.com
 ```
 
 ---
 
-## 🏅 GitHub Trophies
+## $ cat trophies.log
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SonamNarula&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/SonamNarula)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SonamNarula&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/SonamNarula)
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## $ ls ~/arsenal
 
 <div align="center">
 
-**💻 Languages**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,bash,markdown" />
 
 <br/><br/>
 
-**⚛️ Frontend**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,nextjs,bootstrap,sass,materialui,styledcomponents" />
 
 <br/><br/>
 
-**🖥️ Backend & Database**
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma,graphql,redis" />
 
 <br/><br/>
 
-**⚙️ Tools & DevOps**
+**Tools & DevOps**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel,netlify,linux,figma,canva,notion,npm" />
 
 <br/><br/>
 
-**🤖 AI & Others**
+**AI & Others**
 
 <img src="https://skillicons.dev/icons?i=openai,tensorflow,pytorch" />
 
@@ -88,96 +101,139 @@ export default new SonamNarula();
 
 ---
 
-## 🔥 SIGNATURE PROJECTS
+## $ ls ~/projects
 
-> real code · real problems · real shipping
-
----
-
-### 💜 Trackify — *My Flagship*
-> *"One dashboard for everything a student grinds through"*
-
-My **college minor project**, built solo and deployed live. A productivity suite designed around how CS students actually study — tracking DSA solves, study sessions, tasks, and deadlines all in one place.
-
-```
-STATUS : 🟢 LIVE & DEPLOYED
-LINK   : trackify.wasmer.app
-STACK  : React · JavaScript · Vite · CSS
-```
-
-**What it does:**
-- 📊 DSA solve tracker with daily streaks
-- ⏱️ Study hours & session logging
-- ✅ Task manager with deadlines
-- 📈 Progress dashboard — see your growth visually
-- 🎓 Built as college minor project · actually works · actually shipped
-
-[![🔗 Visit Live](https://img.shields.io/badge/🔗_VISIT_LIVE-trackify.wasmer.app-c084fc?style=for-the-badge&labelColor=1a0a2e)](https://trackify.wasmer.app)
-[![📂 View Repo](https://img.shields.io/badge/📂_VIEW_REPO-a855f7?style=for-the-badge&labelColor=1a0a2e)](https://github.com/SonamNarula/Trackify-college-minor-project)
+> Four builds. Not for the resume. For the craft.
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### ⚡ CodeFusion — Real-Time Collaborative Code Editor
 
-### 📰 NeuroNews
-> *"News, filtered the way you want it"*
+> *"Google Docs for code. Full-stack. Zero shortcuts."*
 
-A **news aggregator app** built with React — category-based filtering, infinite scroll, live API integration. Ran into some deployment issues but the code is solid and the repo is public.
+The hardest problem I have taken on. Multiple developers. One shared Monaco editor. Every keystroke emits a Socket.io event, travels through a Node server, and renders on every connected client in milliseconds — with no polling, no page reload, no compromise. The editor itself runs on Monaco — the same engine behind VS Code — living inside the browser.
 
-```
-STATUS : 🟡 IN PROGRESS
-STACK  : React · NewsAPI · CSS
-```
-
-**What it does:**
-- 📡 Live news via REST API
-- ♾️ Infinite scroll
-- 🗂️ Category-wise filtering
-- 📱 Responsive layout
-
-[![📂 View Repo](https://img.shields.io/badge/📂_VIEW_REPO-a855f7?style=for-the-badge&labelColor=1a0a2e)](https://github.com/SonamNarula/Neuro-News)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 UI Clones
-> *"If you can clone it, you understand it"*
-
-Pixel-perfect recreations of real-world UIs — built purely for practice. Each clone was an exercise in layout precision, responsiveness, and understanding how good design is actually coded.
+I did not pick an easy project. I picked the right one.
 
 ```
-STATUS : 🟢 ONGOING PRACTICE
-STACK  : HTML · CSS · JavaScript
+  STACK   React 18 · Node.js · Express · Socket.io · Monaco Editor · Tailwind CSS
+  ARCH    Client / Server separated · Room-based WebSocket namespacing · In-memory Map
+  STATUS  🟢 Live & Deployed  —  Vercel (frontend) · Railway (backend)
 ```
 
-**What it does:**
-- 🖼️ Faithful UI reproductions
-- 📐 Layout & spacing accuracy
-- 📱 Responsive across devices
-- 🔎 Focus on micro-details
+**How it works under the hood:**
 
-[![📂 View Repo](https://img.shields.io/badge/📂_VIEW_REPO-a855f7?style=for-the-badge&labelColor=1a0a2e)](https://github.com/SonamNarula)
+```
+  CLIENT A  (Monaco)          SERVER  (Node + Express)         CLIENT B  (Monaco)
+       │                              │                               │
+       ├──── room:join ──────────────►│                               │
+       │                              ├────── user:joined ───────────►│
+       │                              │                               │
+       ├──── code:change ────────────►│                               │
+       │     { roomId, code }         ├────── code:change ───────────►│  ← instant render
+       │                              │                               │
+       ├──── typing:start ───────────►│                               │
+       │     { roomId, username }     ├────── typing:start ──────────►│  ← "X is typing…"
+       │                              │                               │
+       ├──── room:leave ─────────────►│                               │
+       │                              ├────── user:left ─────────────►│
+```
 
-</td>
-</tr>
-</table>
+**The technical details:**
+
+| Feature | What is actually happening |
+|:--------|:--------------------------|
+| ⚡ Sub-ms code sync | `code:change` on every keystroke — server broadcasts instantly to all room clients |
+| 🏠 Room system | Unique room IDs · `Map<roomId, {users, code}>` fully server-managed |
+| ⌨️ Live typing indicators | `typing:start` + `typing:stop` events · "X is typing…" shown across all clients |
+| 🌐 Multi-language support | JS · Python · C++ · Java · Go · TypeScript — Monaco language mode API |
+| ▶️ In-browser execution | Run code → output panel rendered, zero page reload |
+| 🌙 Theme persistence | Dark / Light toggle · choice stored to localStorage |
+| 📱 Fully responsive | Desktop · tablet · mobile — all handled |
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=131425)](https://github.com/SonamNarula/CodeFusion-a-collaborative-real-time-code-editor)
 
 ---
 
-## 📊 GitHub Stats
+### 💜 Trackify — Student Productivity Suite
+
+> *"Built for students who actually show up every day. Like me."*
+
+My college minor project — ideated, designed, built solo, and deployed live. Not a tutorial follow-along. A real product, built around a real problem: I needed one place to track my DSA solves, log study hours, manage deadlines, and see whether my grind was actually adding up. Nothing clean existed. So I built it.
+
+```
+  STACK   React · JavaScript · Vite · CSS
+  STATUS  🟢 Live @ trackify.wasmer.app
+```
+
+**What it does:**
+- 📊 DSA solve tracker with daily streaks — the chain must not break
+- ⏱️ Study session logging with cumulative hour tracking — the hours add up
+- ✅ Task manager with deadline management — nothing slips
+- 📈 Visual progress dashboard — your consistency, staring back at you
+- 🎓 Sole developer — from idea to production
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-trackify.wasmer.app-7aa2f7?style=for-the-badge&labelColor=131425)](https://trackify.wasmer.app)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=131425)](https://github.com/SonamNarula/Trackify-college-minor-project)
+
+---
+
+### 📰 NeuroNews — Live News Aggregator
+
+> *"News without the noise. Clean, filtered, and always current."*
+
+A React news aggregator pulling live data from the NewsAPI. Built because most news apps are a mess — cluttered, overwhelming, and algorithmically poisoned. NeuroNews is the opposite: pick your category, scroll through clean articles, stay current. The codebase is complete; deployment is being finalised.
+
+```
+  STACK   React · NewsAPI · CSS
+  STATUS  🟡 Code complete · Deployment in progress
+```
+
+**What it does:**
+- 📡 Live articles via REST API — refreshed and always up to date
+- 🗂️ Category filtering — Technology, Business, Sports, Health, Science, and more
+- ♾️ Infinite scroll — no interruptions, just content
+- 📱 Fully responsive — desktop through mobile
+- 🧹 Distraction-free interface — content first, nothing else competing
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=131425)](https://github.com/SonamNarula/Neuro-News)
+
+---
+
+### 🎨 UI Clones — Frontend Precision & Craft
+
+> *"You do not truly understand a UI until you can rebuild it exactly."*
+
+Deliberate practice. Not copying for the sake of it — deconstructing how real product UIs are actually built, then rebuilding them with full accuracy: layout grids, spacing systems, transitions, hover states, and responsiveness across every breakpoint. This work sharpened the fundamentals that every project since has been built on.
+
+```
+  STACK   HTML · CSS · JavaScript
+  STATUS  🟢 Ongoing — new clones added regularly
+```
+
+**What this represents:**
+- 🖼️ Pixel-accurate reproductions of real product UIs
+- 📐 Deep focus on layout grids, spacing logic, visual rhythm
+- 📱 Every clone responsive — mobile to widescreen
+- 🔎 Micro-detail obsession: hover states, transitions, typography, shadows
+- 🧱 The foundation every other project is built on
+
+[![View Work](https://img.shields.io/badge/View%20Work-GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=131425)](https://github.com/SonamNarula)
+
+---
+
+## $ cat github-stats.json
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SonamNarula&show_icons=true&hide_border=true&bg_color=0d0020&title_color=c084fc&icon_color=c084fc&text_color=a855f7&border_radius=12&count_private=true&include_all_commits=true&rank_icon=percentile" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SonamNarula&show_icons=true&hide_border=true&bg_color=0d0e1a&title_color=7aa2f7&icon_color=bb9af7&text_color=7aa2f7&border_radius=10&count_private=true&include_all_commits=true&rank_icon=percentile" height="165" />
 &nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&hide_border=true&bg_color=0d0020&title_color=c084fc&text_color=a855f7&border_radius=12&langs_count=6" height="165" />
-<img src="https://streak-stats.demolab.com?user=SonamNarula&theme=dark&hide_border=true&background=0d0020&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=a855f7&currStreakNum=c084fc&sideNums=a855f7&dates=6b21a8&border_radius=12" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SonamNarula&layout=compact&hide_border=true&bg_color=0d0e1a&title_color=7aa2f7&text_color=7aa2f7&border_radius=10&langs_count=6" height="165" />
+<img src="https://streak-stats.demolab.com?user=SonamNarula&theme=dark&hide_border=true&background=0d0e1a&ring=7aa2f7&fire=e0af68&currStreakLabel=7aa2f7&sideLabels=bb9af7&currStreakNum=7aa2f7&sideNums=7aa2f7&dates=565f89&border_radius=10" height="165" />
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/SonamNarula)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0d0e1a&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&area_color=1a1b2e&hide_border=true&radius=6)](https://github.com/SonamNarula)
 
 ![Metrics](https://raw.githubusercontent.com/SonamNarula/SonamNarula/main/github-metrics.svg)
 
@@ -185,31 +241,35 @@ STACK  : HTML · CSS · JavaScript
 
 ---
 
-## ⚔️ DSA Grind
+## $ grep -r "dsa" ~/grind
 
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&border=0&radius=8&ext=heatmap" />
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-488-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a0a2e)](https://leetcode.com/u/sonamnarula2005/)
+<br/>
 
-<br/><br/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-488%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=131425)](https://leetcode.com/u/sonamnarula2005/)
+&nbsp;
+[![DSA Total](https://img.shields.io/badge/Total-1000%2B%20Problems-7aa2f7?style=for-the-badge&labelColor=131425)](https://codolio.com/profile/0PG2lf5S)
 
-[![DSA Total](https://img.shields.io/badge/DSA_Total-1000%2B_across_platforms-c084fc?style=for-the-badge&labelColor=1a0a2e)](https://codolio.com/profile/0PG2lf5S)
-[![GFG](https://img.shields.io/badge/GeeksForGeeks-Daily_Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a0a2e)](https://www.geeksforgeeks.org/profile/sonammnapaqc)
-[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-c084fc?style=for-the-badge&labelColor=1a0a2e)](https://codolio.com/profile/0PG2lf5S)
+<br/>
+
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-Daily%20Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=131425)](https://www.geeksforgeeks.org/profile/sonammnapaqc)
+&nbsp;
+[![Codolio](https://img.shields.io/badge/Codolio-Full%20Portfolio-bb9af7?style=for-the-badge&labelColor=131425)](https://codolio.com/profile/0PG2lf5S)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🟩 Every Green Square is a Promise Kept
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+
+*Consistency is not motivation. It is discipline.*
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SonamNarula/SonamNarula/output/github-snake-dark.svg" />
@@ -217,14 +277,9 @@ STACK  : HTML · CSS · JavaScript
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/SonamNarula/SonamNarula/output/github-snake-dark.svg" />
 </picture>
 
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0d001a&color=c084fc&line=a855f7&point=c084fc&area=true&area_color=2d0060&hide_border=true&radius=8)](https://github.com/SonamNarula)
-
-
 ---
 
-## 📡 Find Me
+## $ ping sonam
 
 <div align="center">
 
@@ -248,4 +303,4 @@ STACK  : HTML · CSS · JavaScript
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:1a0a2e,100:0d001a&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0e1a,50:131425,100:0d0e1a&height=100&section=footer" />
