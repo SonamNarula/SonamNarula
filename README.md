@@ -16,6 +16,17 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-1000%2B-7aa2f7?style=for-the-badge&labelColor=131425" />
+<img src="https://img.shields.io/badge/LeetCode-488%2B-FFA116?style=for-the-badge&labelColor=131425" />
+<img src="https://img.shields.io/badge/Streak-200%2B%20Days-bb9af7?style=for-the-badge&labelColor=131425" />
+<img src="https://img.shields.io/badge/Projects-4-7dcfff?style=for-the-badge&labelColor=131425" />
+
+</div>
+
+<br/>
+
 ---
 
 ## $ whoami
@@ -54,12 +65,13 @@ contact  : sonamnarula2108@gmail.com
 ```
 
 ---
-
-## $ cat trophies.log
-
+## Focus areas 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SonamNarula&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/SonamNarula)
+<img src="https://img.shields.io/badge/Full_Stack-Development-7aa2f7?style=for-the-badge&labelColor=131425" />
+<img src="https://img.shields.io/badge/Competitive-Programming-bb9af7?style=for-the-badge&labelColor=131425" />
+<img src="https://img.shields.io/badge/Data-Analytics-7dcfff?style=for-the-badge&labelColor=131425" />
+<img src="https://img.shields.io/badge/System-Design-e0af68?style=for-the-badge&labelColor=131425" />
 
 </div>
 
@@ -151,7 +163,9 @@ I did not pick an easy project. I picked the right one.
 | 🌙 Theme persistence | Dark / Light toggle · choice stored to localStorage |
 | 📱 Fully responsive | Desktop · tablet · mobile — all handled |
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=131425)](https://github.com/SonamNarula/CodeFusion-a-collaborative-real-time-code-editor)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-CodeFusion-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=131425)](https://codefusion-collaborative-editor.vercel.app/)
+&nbsp;
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=131425)](https://github.com/SonamNarula/CodeFusion-a-collaborative-real-time-code-editor)
 
 ---
 
@@ -219,6 +233,16 @@ Deliberate practice. Not copying for the sake of it — deconstructing how real 
 - 🧱 The foundation every other project is built on
 
 [![View Work](https://img.shields.io/badge/View%20Work-GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=131425)](https://github.com/SonamNarula)
+
+---
+
+## $ cat engineering.log
+
+- 1000+ DSA problems solved
+- 488+ LeetCode problems
+- 200+ day coding streak
+- Built and deployed multiple full-stack applications
+- Active across GitHub, LeetCode, GFG, and Codolio
 
 ---
 
@@ -304,3 +328,8 @@ Deliberate practice. Not copying for the sake of it — deconstructing how real 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0e1a,50:131425,100:0d0e1a&height=100&section=footer" />
+
+---
+
+<br />
+
