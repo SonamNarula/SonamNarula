@@ -271,9 +271,15 @@ Deliberate practice. Not copying for the sake of it — deconstructing how real 
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&border=0&radius=8&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&border=0&radius=8&ext=heatmap&cache=1800" />
 
-<br/>
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&border=0&radius=8&cache=1800" height="200" />
+&nbsp;
+<img src="https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&border=0&radius=8&ext=activity&cache=1800" height="200" />
+
+<br/><br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-488%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=131425)](https://leetcode.com/u/sonamnarula2005/)
 &nbsp;
@@ -329,4 +335,3 @@ Deliberate practice. Not copying for the sake of it — deconstructing how real 
 ---
 
 <br />
-
