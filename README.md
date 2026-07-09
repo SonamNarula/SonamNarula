@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0e1a,25:131425,60:0d0e1a,100:0d0e1a&height=310&section=header&text=Sonam%20Narula&fontSize=82&fontColor=7aa2f7&animation=fadeIn&fontAlignY=43&desc=Ships%20real%20code%20%C2%B7%20Grinds%20DSA%20daily%20%C2%B7%20Trains%20like%20it%27s%20a%20sport%20%C2%B7%20Final%20Year%20CSE&descColor=bb9af7&descSize=17&descAlignY=64&stroke=7aa2f7&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0e1a,25:131425,60:0d0e1a,100:0d0e1a&height=310&section=header&text=Sonam%20Narula&fontSize=82&fontColor=7aa2f7&animation=fadeIn&fontAlignY=43&desc=Codes%20with%20intent%20%C2%B7%20Grinds%20DSA%20daily%20%C2%B7%20Zero%20shortcuts%20%C2%B7%20Final%20Year%20CSE&descColor=bb9af7&descSize=17&descAlignY=64&stroke=7aa2f7&strokeWidth=1" />
 
 <br/>
 
@@ -9,33 +9,44 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=SonamNarula&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS&labelColor=131425" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/SonamNarula?style=for-the-badge&color=bb9af7&labelColor=131425&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/SonamNarula?style=for-the-badge&color=7dcfff&labelColor=131425&label=STARS" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-LOCKED_IN-e0af68?style=for-the-badge&labelColor=131425" />
 
-<br/><br/>
+</div>
 
-I train every day.
-I build real things.
-I grind DSA like it is pre-season.
+---
+
+<div align="center">
+
+**Not built for tutorials. Built to ship, chase edge cases, and out-grind the competition — one commit at a time.**
+
+</div>
+
+---
+
+<div align="center">
+
+| 🧩 DSA | 💛 LeetCode | 🔥 Streak | 🚀 Shipped |
+|:---:|:---:|:---:|:---:|
+| **1000+** | **500+** | **200+ days** | **4 builds** |
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-1000%2B-7aa2f7?style=for-the-badge&labelColor=131425" />
-<img src="https://img.shields.io/badge/LeetCode-488%2B-FFA116?style=for-the-badge&labelColor=131425" />
-<img src="https://img.shields.io/badge/Streak-200%2B%20Days-bb9af7?style=for-the-badge&labelColor=131425" />
-<img src="https://img.shields.io/badge/Projects-4-7dcfff?style=for-the-badge&labelColor=131425" />
+*Numbers don't lie. Neither does the streak.*
 
 </div>
-
-<br/>
 
 ---
 
 ## $ whoami
 
-*Final year CS student who treats coding like a sport.*
-*I train every day. I build real things. I grind DSA like it is pre-season.*
-*The projects, the commits, the numbers — they do not lie.*
+*Final year CS student who treats engineering like combat — the reps compound, the streak never lies, and the only opponent that matters is yesterday's me.*
 
 ```yaml
 name    : Sonam Narula
@@ -58,16 +69,15 @@ building:
 
 dsa:
   total    : 1000+
-  leetcode : 488
+  leetcode : 500
   language : C++
   platforms: [LeetCode, GFG, Codolio]
 
-mindset  : "show up every day, whether it counts or not — it always counts"
-contact  : sonamnarula2108@gmail.com
+open_to   : [SDE Internships, Full-time SDE roles, Open-source collaboration]
+mindset   : "no off days, no excuses — the grind doesn't take breaks"
+contact   : sonamnarula2108@gmail.com
 ```
 
----
-## Focus areas 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Full_Stack-Development-7aa2f7?style=for-the-badge&labelColor=131425" />
@@ -115,9 +125,27 @@ contact  : sonamnarula2108@gmail.com
 
 ---
 
+## $ cat trophies.log
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SonamNarula&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+---
+
 ## $ ls ~/projects
 
-> Four builds. Not for the resume. For the craft.
+> Four builds. No tutorials, no shortcuts — pure reps.
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SonamNarula&repo=CodeFusion-a-collaborative-real-time-code-editor&theme=tokyonight&hide_border=true&bg_color=0d0e1a&title_color=7aa2f7&text_color=7dcfff" height="165" />
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SonamNarula&repo=Trackify-college-minor-project&theme=tokyonight&hide_border=true&bg_color=0d0e1a&title_color=7aa2f7&text_color=7dcfff" height="165" />
+
+</div>
 
 ---
 
@@ -240,8 +268,10 @@ Deliberate practice. Not copying for the sake of it — deconstructing how real 
 
 ## $ cat engineering.log
 
+*// no days off, no excuses*
+
 - 1000+ DSA problems solved
-- 488+ LeetCode problems
+- 500+ LeetCode problems
 - 200+ day coding streak
 - Built and deployed multiple full-stack applications
 - Active across GitHub, LeetCode, GFG, and Codolio
@@ -275,13 +305,7 @@ Deliberate practice. Not copying for the sake of it — deconstructing how real 
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&border=0&radius=8&cache=1800" height="200" />
-&nbsp;
-<img src="https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&border=0&radius=8&ext=activity&cache=1800" height="200" />
-
-<br/><br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-488%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=131425)](https://leetcode.com/u/sonamnarula2005/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=131425)](https://leetcode.com/u/sonamnarula2005/)
 &nbsp;
 [![DSA Total](https://img.shields.io/badge/Total-1000%2B%20Problems-7aa2f7?style=for-the-badge&labelColor=131425)](https://codolio.com/profile/0PG2lf5S)
 
@@ -295,7 +319,19 @@ Deliberate practice. Not copying for the sake of it — deconstructing how real 
 
 ---
 
+## Contribution Arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## $ ping sonam
+
+> Open to SDE internships, full-time roles, and anything worth losing sleep over.
 
 <div align="center">
 
@@ -316,17 +352,6 @@ Deliberate practice. Not copying for the sake of it — deconstructing how real 
 </a>
 
 </div>
-
----
-
-
-## Contribution Arcade
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/krishrathi1/krishrathi1/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
