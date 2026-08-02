@@ -61,13 +61,7 @@
 
 </div>
 
-```yaml
-LeetCode    : 500+ solved       → sonamnarula2005
-Total DSA   : 1300+ solved      → across LeetCode, Codeforces, CSES, GFG, CodeChef
-Codeforces  : active           → ghostcommit.cpp
-GFG         : active           → sonammnapaqc
-Track       : ICPC-style CP + pattern-wise DSA (450–500 core patterns, 20+ categories)
-```
+![Progress Log](https://raw.githubusercontent.com/SonamNarula/SonamNarula/main/progress-log.svg)
 
 <br>
 
@@ -75,11 +69,7 @@ Track       : ICPC-style CP + pattern-wise DSA (450–500 core patterns, 20+ cat
 
 ### `sonam@github ~ %` echo $ENGINEERING_PHILOSOPHY
 
-```
-consistency compounds — 200+ day streaks aren't motivation, they're infrastructure.
-solve the pattern, not the problem. debug the fundamentals, not the symptom.
-ship it, measure it, then make it smarter.
-```
+![Engineering Philosophy](https://raw.githubusercontent.com/SonamNarula/SonamNarula/main/engineering-philosophy.svg)
 
 </div>
 
