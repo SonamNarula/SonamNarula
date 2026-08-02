@@ -1,0 +1,179 @@
+<svg width="920" height="804" viewBox="0 0 920 804" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="clip_projects"><rect width="920" height="804" rx="20"/></clipPath>
+    <linearGradient id="edge_projects" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#9ece6a" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="glass_projects" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="18%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb1_projects" cx="15%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2_projects" cx="100%" cy="100%" r="70%">
+      <stop offset="0%" stop-color="#bb9af7" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur_projects"><feGaussianBlur stdDeviation="2.4"/></filter>
+    <filter id="soft_projects" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .k{fill:#9ece6a;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:14px;font-weight:700;}
+    .v{fill:#e8eaf6;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:14px;}
+    .m{fill:#7982a9;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:12.5px;}
+    .b{fill:#7aa2f7;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:14px;font-weight:700;}
+    .title{fill:#7982a9;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:12.5px;letter-spacing:.4px;}
+    .prompt{fill:#9ece6a;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:13px;}
+    .link{fill:#7aa2f7;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:11.5px;text-decoration:underline;}
+    .cursor{animation:blink 1.1s step-end infinite;}
+    @keyframes blink{50%{opacity:0;}}
+    .dot-live{animation:pulse 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center;}
+    @keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:.4;transform:scale(.82);}}
+    .row{opacity:1;animation:rise .6s cubic-bezier(.16,1,.3,1) both;}
+    @keyframes rise{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
+    .sheen{animation:sheen 6s ease-in-out infinite;}
+    @keyframes sheen{0%,100%{opacity:.5;}50%{opacity:1;}}
+    .float{animation:float 5s ease-in-out infinite;}
+    @keyframes float{0%,100%{transform:translateY(0);}50%{transform:translateY(-3px);}}
+  </style>
+  <g clip-path="url(#clip_projects)">
+    <rect width="920" height="804" fill="#0d0e14"/>
+    <rect width="920" height="804" fill="url(#orb1_projects)"/>
+    <rect width="920" height="804" fill="url(#orb2_projects)"/>
+    <rect width="920" height="804" fill="url(#glass_projects)"/>
+    <rect width="920" height="42" fill="#0a0a0f" opacity="0.75"/>
+    <rect x="0" y="41" width="920" height="1.6" fill="url(#edge_projects)" class="sheen"/>
+    <circle cx="23" cy="21" r="6" fill="#f7768e"/><circle cx="43" cy="21" r="6" fill="#e0af68"/>
+    <circle cx="63" cy="21" r="6" fill="#9ece6a" class="dot-live"/>
+    <text x="460.0" y="26" text-anchor="middle" class="title">sonam@github — projects</text>
+    <text x="30" y="88" class="prompt">~ % ls -la ~/projects --detailed</text>
+
+    <!-- CodeFusion -->
+    <g class="row" style="animation-delay:0.10s">
+      <rect x="28" y="124" width="864" height="150" rx="12" fill="#14161f" opacity="0.75" stroke="#2a2d42" stroke-width="1"/>
+      <rect x="28" y="124" width="864" height="150" rx="12" fill="url(#glass_projects)"/>
+      <rect x="28" y="124" width="4" height="150" rx="2" fill="#e0af68"/>
+      <text x="50" y="156" class="b" font-size="16">CodeFusion</text>
+      <rect x="162" y="141" width="39" height="20" rx="10" fill="#9ece6a" opacity="0.14"/>
+      <circle cx="175" cy="151" r="3.3" fill="#9ece6a"/>
+      <text x="183" y="155" fill="#9ece6a" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="10.5" font-weight="700">LIVE</text>
+      <text x="868" y="156" text-anchor="end" class="v" font-size="14">★ 0</text>
+      <text x="50" y="179" class="m" font-size="12.5">Real-time collaborative code editor with live cursors &amp; CRDT-based sync</text>
+      <text x="50" y="199" class="m" font-size="11.5" opacity="0.75">Multi-user editing • conflict-free merge logic • Monaco-powered syntax highlighting</text>
+      <g class="row" style="animation-delay:0.15s">
+        <rect x="50.0" y="215" width="57.0" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="78.5" y="231" text-anchor="middle" class="m" font-size="11">React</text>
+      </g>
+      <g class="row" style="animation-delay:0.15s">
+        <rect x="115.0" y="215" width="70.2" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="150.1" y="231" text-anchor="middle" class="m" font-size="11">Node.js</text>
+      </g>
+      <g class="row" style="animation-delay:0.15s">
+        <rect x="193.2" y="215" width="83.4" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="234.9" y="231" text-anchor="middle" class="m" font-size="11">Socket.io</text>
+      </g>
+      <g class="row" style="animation-delay:0.15s">
+        <rect x="284.6" y="215" width="63.6" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="316.4" y="231" text-anchor="middle" class="m" font-size="11">Monaco</text>
+      </g>
+      <g class="row" style="animation-delay:0.20s">
+        <a href="https://codefusion-collaborative-editor.vercel.app" xlink:href="https://codefusion-collaborative-editor.vercel.app" target="_blank">
+          <text x="50" y="255" class="link">↗ Live: codefusion-collaborative-editor.vercel.app</text>
+        </a>
+      </g>
+    </g>
+
+    <!-- Trackify -->
+    <g class="row" style="animation-delay:0.25s">
+      <rect x="28" y="292" width="864" height="150" rx="12" fill="#14161f" opacity="0.75" stroke="#2a2d42" stroke-width="1"/>
+      <rect x="28" y="292" width="864" height="150" rx="12" fill="url(#glass_projects)"/>
+      <rect x="28" y="292" width="4" height="150" rx="2" fill="#7aa2f7"/>
+      <text x="50" y="324" class="b" font-size="16">Trackify</text>
+      <rect x="143" y="309" width="39" height="20" rx="10" fill="#9ece6a" opacity="0.14"/>
+      <circle cx="156" cy="319" r="3.3" fill="#9ece6a"/>
+      <text x="164" y="323" fill="#9ece6a" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="10.5" font-weight="700">LIVE</text>
+      <text x="868" y="324" text-anchor="end" class="v" font-size="14">★ 3</text>
+      <text x="50" y="347" class="m" font-size="12.5">DSA tracker &amp; productivity suite — streaks, heatmaps, spaced repetition</text>
+      <text x="50" y="367" class="m" font-size="11.5" opacity="0.75">Problem logging • revision scheduler • progress analytics dashboard</text>
+      <g class="row" style="animation-delay:0.30s">
+        <rect x="50.0" y="383" width="90.0" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="95.0" y="399" text-anchor="middle" class="m" font-size="11">TypeScript</text>
+      </g>
+      <g class="row" style="animation-delay:0.30s">
+        <rect x="148.0" y="383" width="57.0" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="176.5" y="399" text-anchor="middle" class="m" font-size="11">React</text>
+      </g>
+      <g class="row" style="animation-delay:0.30s">
+        <rect x="213.0" y="383" width="70.2" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="248.1" y="399" text-anchor="middle" class="m" font-size="11">Node.js</text>
+      </g>
+      <g class="row" style="animation-delay:0.35s">
+        <a href="https://trackify.wasmer.app" xlink:href="https://trackify.wasmer.app" target="_blank">
+          <text x="50" y="423" class="link">↗ Live: trackify.wasmer.app</text>
+        </a>
+      </g>
+    </g>
+
+    <!-- Neuro-News -->
+    <g class="row" style="animation-delay:0.40s">
+      <rect x="28" y="460" width="864" height="150" rx="12" fill="#14161f" opacity="0.75" stroke="#2a2d42" stroke-width="1"/>
+      <rect x="28" y="460" width="864" height="150" rx="12" fill="url(#glass_projects)"/>
+      <rect x="28" y="460" width="4" height="150" rx="2" fill="#bb9af7"/>
+      <text x="50" y="492" class="b" font-size="16">Neuro-News</text>
+      <rect x="162" y="477" width="53" height="20" rx="10" fill="#e0af68" opacity="0.14"/>
+      <circle cx="175" cy="487" r="3.3" fill="#e0af68"/>
+      <text x="183" y="491" fill="#e0af68" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="10.5" font-weight="700">ACTIVE</text>
+      <text x="868" y="492" text-anchor="end" class="v" font-size="14">★ 3</text>
+      <text x="50" y="515" class="m" font-size="12.5">News aggregation engine with ML-based topic clustering &amp; ranking</text>
+      <text x="50" y="535" class="m" font-size="11.5" opacity="0.75">Multi-source scraping • topic modeling • relevance-based ranking</text>
+      <g class="row" style="animation-delay:0.45s">
+        <rect x="50.0" y="551" width="90.0" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="95.0" y="567" text-anchor="middle" class="m" font-size="11">TypeScript</text>
+      </g>
+      <g class="row" style="animation-delay:0.45s">
+        <rect x="148.0" y="551" width="63.6" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="179.8" y="567" text-anchor="middle" class="m" font-size="11">Python</text>
+      </g>
+      <g class="row" style="animation-delay:0.45s">
+        <rect x="219.6" y="551" width="37.2" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="238.2" y="567" text-anchor="middle" class="m" font-size="11">ML</text>
+      </g>
+      <text x="50" y="591" class="m" font-size="11" opacity="0.6">📁 In development — deployment pending</text>
+    </g>
+
+    <!-- neural-folklore -->
+    <g class="row" style="animation-delay:0.55s">
+      <rect x="28" y="628" width="864" height="150" rx="12" fill="#14161f" opacity="0.75" stroke="#2a2d42" stroke-width="1"/>
+      <rect x="28" y="628" width="864" height="150" rx="12" fill="url(#glass_projects)"/>
+      <rect x="28" y="628" width="4" height="150" rx="2" fill="#7dcfff"/>
+      <text x="50" y="660" class="b" font-size="16">neural-folklore</text>
+      <rect x="210" y="645" width="66" height="20" rx="10" fill="#7dcfff" opacity="0.14"/>
+      <circle cx="223" cy="655" r="3.3" fill="#7dcfff"/>
+      <text x="231" y="659" fill="#7dcfff" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="10.5" font-weight="700">LEARNING</text>
+      <text x="868" y="660" text-anchor="end" class="v" font-size="14">★ 0</text>
+      <text x="50" y="683" class="m" font-size="12.5">Exploratory AI/ML learning repo — models, notebooks, experiments</text>
+      <text x="50" y="703" class="m" font-size="11.5" opacity="0.75">Regression &amp; classification experiments • scikit-learn pipelines • NumPy fundamentals</text>
+      <g class="row" style="animation-delay:0.60s">
+        <rect x="50.0" y="719" width="63.6" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="81.8" y="735" text-anchor="middle" class="m" font-size="11">Python</text>
+      </g>
+      <g class="row" style="animation-delay:0.60s">
+        <rect x="121.6" y="719" width="103.2" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="173.2" y="735" text-anchor="middle" class="m" font-size="11">scikit-learn</text>
+      </g>
+      <g class="row" style="animation-delay:0.60s">
+        <rect x="232.8" y="719" width="57.0" height="22" rx="11" fill="#171a28" opacity="0.8" stroke="#2a2d42"/>
+        <text x="261.3" y="735" text-anchor="middle" class="m" font-size="11">NumPy</text>
+      </g>
+      <text x="50" y="759" class="m" font-size="11" opacity="0.6">📁 Learning repository — experiments &amp; notebooks only</text>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="918.5" height="802.5" rx="19.5" fill="none" stroke="url(#edge_projects)" stroke-width="1.4" opacity="0.7"/>
+</svg>
