@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="./hero-banner.svg" width="100%" />
-
+<img src="./Hero Banner Claude.svg
+" width="100%" />
+![Hero Banner](https://raw.githubusercontent.com/SonamNarula/SonamNarula/main/Hero%20Banner%20Claude.svg)
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Making+underestimation+expensive.;500%2B+LeetCode+%C2%B7+1300%2B+DSA+solved;final-year+CSE+%40+JECRC+%C2%B7+DSA+Captain;building+toward+AI%2FML+%2B+Germany" alt="Typing SVG" />
@@ -30,7 +31,7 @@
 <br><br>
 
 <h3><code>sonam@github ~ % ls -la ~/projects --detailed</code></h3>
-<img src="./projects-card.svg" width="920" />
+<img src="./Projects_Card_-_Claude.svg" width="920" />
 
 <br><br>
 
