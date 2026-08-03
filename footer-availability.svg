@@ -1,0 +1,88 @@
+<svg width="920" height="160" viewBox="0 0 920 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="clip_avail"><rect width="920" height="160" rx="20"/></clipPath>
+    <linearGradient id="edge_avail" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9ece6a" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#7aa2f7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="glass_avail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="18%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb1_avail" cx="15%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#9ece6a" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#9ece6a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2_avail" cx="100%" cy="100%" r="70%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur_avail" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+
+    <symbol id="ic-grad" viewBox="0 0 16 16">
+      <path d="M1 6 L8 2 L15 6 L8 10 Z" fill="currentColor"/>
+      <path d="M4 7.5 v3.5 a4 2 0 0 0 8 0 v-3.5" fill="none" stroke="currentColor" stroke-width="1.2"/>
+    </symbol>
+    <symbol id="ic-collab" viewBox="0 0 16 16">
+      <circle cx="5.5" cy="8" r="4" fill="none" stroke="currentColor" stroke-width="1.3"/>
+      <circle cx="10.5" cy="8" r="4" fill="none" stroke="currentColor" stroke-width="1.3"/>
+    </symbol>
+    <symbol id="ic-fork" viewBox="0 0 16 16">
+      <circle cx="4" cy="3" r="1.8" fill="currentColor"/><circle cx="12" cy="3" r="1.8" fill="currentColor"/><circle cx="8" cy="13" r="1.8" fill="currentColor"/>
+      <path d="M4 4.8 v2.4 a3 3 0 0 0 3 3 h0.6" fill="none" stroke="currentColor" stroke-width="1.2"/>
+      <path d="M12 4.8 v2.4 a3 3 0 0 1-3 3 h-0.6" fill="none" stroke="currentColor" stroke-width="1.2"/>
+      <line x1="8" y1="9.6" x2="8" y2="11.2" stroke="currentColor" stroke-width="1.2"/>
+    </symbol>
+  </defs>
+  <style>
+    .title{fill:#7982a9;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:12.5px;letter-spacing:.4px;}
+    .prompt{fill:#9ece6a;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:13px;}
+    .pill{fill:#e8eaf6;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:12.5px;font-weight:700;}
+    .dot-live{animation:pulse 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center;}
+    @keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:.4;transform:scale(.82);}}
+    .sheen{animation:sheen 6s ease-in-out infinite;}
+    @keyframes sheen{0%,100%{opacity:.5;}50%{opacity:1;}}
+    .row{opacity:1;animation:rise .6s cubic-bezier(.16,1,.3,1) both;}
+    @keyframes rise{from{opacity:0;transform:translateY(6px);}to{opacity:1;transform:translateY(0);}}
+    .glowpulse{animation:glowpulse 2.6s ease-in-out infinite;}
+    @keyframes glowpulse{0%,100%{opacity:.35;}50%{opacity:.75;}}
+  </style>
+  <g clip-path="url(#clip_avail)">
+    <rect width="920" height="160" fill="#0d0e14"/>
+    <rect width="920" height="160" fill="url(#orb1_avail)"/>
+    <rect width="920" height="160" fill="url(#orb2_avail)"/>
+    <rect width="920" height="160" fill="url(#glass_avail)"/>
+    <rect width="920" height="42" fill="#0a0a0f" opacity="0.75"/>
+    <rect x="0" y="41" width="920" height="1.6" fill="url(#edge_avail)" class="sheen"/>
+    <circle cx="23" cy="21" r="6" fill="#f7768e"/><circle cx="43" cy="21" r="6" fill="#e0af68"/>
+    <circle cx="63" cy="21" r="6" fill="#9ece6a" class="dot-live"/>
+    <text x="460.0" y="26" text-anchor="middle" class="title">sonam@github — availability</text>
+
+    <text x="40" y="70" class="prompt">~ % echo $CURRENTLY_OPEN_FOR</text>
+
+    <circle cx="106" cy="107" r="26" fill="#9ece6a" filter="url(#blur_avail)" class="glowpulse" opacity="0.4"/>
+    <circle cx="336" cy="107" r="26" fill="#7aa2f7" filter="url(#blur_avail)" class="glowpulse" opacity="0.4"/>
+    <circle cx="576" cy="107" r="26" fill="#bb9af7" filter="url(#blur_avail)" class="glowpulse" opacity="0.4"/>
+
+    <g class="row" style="animation-delay:0.10s">
+      <rect x="40" y="92" width="212" height="36" rx="18" fill="#171a28" stroke="#9ece6a" stroke-opacity="0.45"/>
+      <g style="color:#9ece6a"><use href="#ic-grad" xlink:href="#ic-grad" x="58" y="103" width="15" height="15"/></g>
+      <text x="82" y="115" class="pill">Internships</text>
+    </g>
+    <g class="row" style="animation-delay:0.17s">
+      <rect x="264" y="92" width="256" height="36" rx="18" fill="#171a28" stroke="#7aa2f7" stroke-opacity="0.45"/>
+      <g style="color:#7aa2f7"><use href="#ic-collab" xlink:href="#ic-collab" x="282" y="103" width="15" height="15"/></g>
+      <text x="306" y="115" class="pill">Collaborations</text>
+    </g>
+    <g class="row" style="animation-delay:0.24s">
+      <rect x="532" y="92" width="222" height="36" rx="18" fill="#171a28" stroke="#bb9af7" stroke-opacity="0.45"/>
+      <g style="color:#bb9af7"><use href="#ic-fork" xlink:href="#ic-fork" x="550" y="103" width="15" height="15"/></g>
+      <text x="574" y="115" class="pill">Open Source</text>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="918.5" height="158.5" rx="19.5" fill="none" stroke="url(#edge_avail)" stroke-width="1.4" opacity="0.7"/>
+</svg>

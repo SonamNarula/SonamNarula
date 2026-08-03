@@ -13,6 +13,9 @@ import sys
 import json
 import datetime
 import urllib.request
+from zoneinfo import ZoneInfo
+
+IST = ZoneInfo("Asia/Kolkata")
 
 GH_TOKEN = os.environ.get("GH_TOKEN")
 GH_USERNAME = os.environ.get("GH_USERNAME", "SonamNarula")
@@ -167,7 +170,7 @@ def glass_chrome(cid, w, h, title):
 def render_metrics_svg(total, current, longest, updated_date):
     W, H = 900, 200
     metrics = [
-        ("Total Contributions", f"{total:,}", BLUE),
+        ("Contributions", f"{total:,}", BLUE),
         ("Current Streak (days)", str(current), GREEN),
         ("Longest Streak (days)", str(longest), PURPLE),
     ]
@@ -180,7 +183,8 @@ def render_metrics_svg(total, current, longest, updated_date):
         body += f'    <text x="{cx:.0f}" y="130" text-anchor="middle" fill="{color}" font-family="{FONT}" font-size="34" font-weight="700">{val}</text>\n'
         body += f'    <text x="{cx:.0f}" y="152" text-anchor="middle" class="m" font-size="12">{label}</text>\n'
     body += f'    <line x1="28" y1="168" x2="{W-28}" y2="168" stroke="{BORDER}" stroke-width="1"/>\n'
-    body += f'    <text x="28" y="188" class="m" font-size="11">last updated <tspan fill="{BLUE}">{updated_date}</tspan> &#183; auto-refreshed daily via GitHub Actions</text>\n'
+    body += f'    <circle cx="34" cy="184" r="3.2" fill="{GREEN}"/>\n'
+    body += f'    <text x="44" y="188" class="m" font-size="11"><tspan fill="{GREEN}" font-weight="700">updated {updated_date}</tspan> &#183; auto-refreshed daily via GitHub Actions</text>\n'
 
     svg = f'<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg">\n'
     svg += glass_chrome("metrics", W, H, "sonam@github — metrics")
@@ -197,7 +201,15 @@ def main():
     total = calendar["totalContributions"]
     days = flatten_days(calendar)
     current, longest = compute_streaks(days)
-    updated_date = datetime.date.today().isoformat()
+
+    # NOTE on timezone: GitHub's contribution calendar buckets days in UTC,
+    # and this script's streak math (compute_streaks) intentionally stays in
+    # UTC to match that data exactly - changing it to IST would misalign the
+    # gap/streak comparisons against GitHub's own day boundaries.
+    # The DISPLAYED "updated" date, however, is cosmetic only - showing it in
+    # IST makes the card say the date Sonam actually recognizes as "today",
+    # instead of a UTC date that can lag behind IST by several hours.
+    updated_date = datetime.datetime.now(IST).date().isoformat()
 
     svg = render_metrics_svg(total, current, longest, updated_date)
     with open("metrics-panel.svg", "w", encoding="utf-8") as f:

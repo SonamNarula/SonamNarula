@@ -1,0 +1,96 @@
+<svg width="920" height="360" viewBox="0 0 920 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip_hero"><rect width="920" height="360" rx="20"/></clipPath>
+    <linearGradient id="edge_hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#bb9af7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#9ece6a" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="glass_hero" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="18%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb1_hero" cx="15%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2_hero" cx="100%" cy="100%" r="70%">
+      <stop offset="0%" stop-color="#bb9af7" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .k{fill:#9ece6a;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:14px;font-weight:700;}
+    .v{fill:#e8eaf6;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:14px;}
+    .m{fill:#7982a9;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:13px;}
+    .title{fill:#7982a9;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:12.5px;letter-spacing:.4px;}
+    .prompt{fill:#9ece6a;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:13px;}
+    .name{fill:#e8eaf6;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:44px;font-weight:700;letter-spacing:2px;}
+    .tagline{font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:16px;font-weight:700;}
+    .sub{fill:#7982a9;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:12.5px;}
+    .stat-n{font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:26px;font-weight:700;}
+    .stat-l{fill:#7982a9;font-family:'JetBrains Mono','Fira Code',ui-monospace,monospace;font-size:10.5px;letter-spacing:.3px;}
+    .dot-live{animation:pulse 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center;}
+    @keyframes pulse{0%,100%{opacity:1;transform:scale(1);}50%{opacity:.4;transform:scale(.82);}}
+    .cursor{animation:blink 1.1s step-end infinite;}
+    @keyframes blink{50%{opacity:0;}}
+    .sheen{animation:sheen 6s ease-in-out infinite;}
+    @keyframes sheen{0%,100%{opacity:.5;}50%{opacity:1;}}
+    .row{opacity:1;animation:rise .6s cubic-bezier(.16,1,.3,1) both;}
+    @keyframes rise{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
+  </style>
+  <g clip-path="url(#clip_hero)">
+    <rect width="920" height="360" fill="#0d0e14"/>
+    <rect width="920" height="360" fill="url(#orb1_hero)"/>
+    <rect width="920" height="360" fill="url(#orb2_hero)"/>
+    <rect width="920" height="360" fill="url(#glass_hero)"/>
+    <rect width="920" height="42" fill="#0a0a0f" opacity="0.75"/>
+    <rect x="0" y="41" width="920" height="1.6" fill="url(#edge_hero)" class="sheen"/>
+    <circle cx="23" cy="21" r="6" fill="#f7768e"/><circle cx="43" cy="21" r="6" fill="#e0af68"/>
+    <circle cx="63" cy="21" r="6" fill="#9ece6a" class="dot-live"/>
+    <text x="460" y="26" text-anchor="middle" class="title">sonam@github — ~</text>
+
+    <text x="40" y="76" class="prompt">~ % whoami --verbose</text>
+
+    <text x="40" y="140" class="name">SONAM NARULA</text>
+    <text x="40" y="166" class="sub">final-year CSE @ JECRC · DSA Captain @ Devcrest JU · building toward AI/ML + Germany</text>
+
+    <g class="row" style="animation-delay:0.10s">
+      <text x="40" y="204" class="tagline" fill="#7aa2f7">Building AI systems.</text>
+      <text x="286" y="204" class="tagline" fill="#e8eaf6">/</text>
+      <text x="302" y="204" class="tagline" fill="#bb9af7">Solving algorithmic problems.</text>
+      <text x="632" y="204" class="tagline" fill="#e8eaf6">/</text>
+    </g>
+    <g class="row" style="animation-delay:0.18s">
+      <text x="40" y="230" class="tagline" fill="#9ece6a">Preparing for Germany</text>
+      <text x="272" y="230" class="tagline" fill="#e8eaf6">🇩🇪</text>
+      <rect x="304" y="215" width="9" height="18" fill="#9ece6a" class="cursor"/>
+    </g>
+
+    <line x1="40" y1="256" x2="880" y2="256" stroke="#2a2d42" stroke-width="1"/>
+
+    <g class="row" style="animation-delay:0.25s">
+      <text x="70" y="304" text-anchor="middle" class="stat-n" fill="#7aa2f7">500+</text>
+      <text x="70" y="324" text-anchor="middle" class="stat-l">LEETCODE SOLVED</text>
+
+      <line x1="180" y1="278" x2="180" y2="330" stroke="#2a2d42" stroke-width="1"/>
+      <text x="290" y="304" text-anchor="middle" class="stat-n" fill="#bb9af7">1300+</text>
+      <text x="290" y="324" text-anchor="middle" class="stat-l">DSA Qs · ALL PLATFORMS</text>
+
+      <line x1="400" y1="278" x2="400" y2="330" stroke="#2a2d42" stroke-width="1"/>
+      <text x="510" y="304" text-anchor="middle" class="stat-n" fill="#9ece6a">400+</text>
+      <text x="510" y="324" text-anchor="middle" class="stat-l">DEVCREST MEMBERS LED</text>
+
+      <line x1="620" y1="278" x2="620" y2="330" stroke="#2a2d42" stroke-width="1"/>
+      <text x="730" y="304" text-anchor="middle" class="stat-n" fill="#e0af68">2027</text>
+      <text x="730" y="324" text-anchor="middle" class="stat-l">BATCH · PLACEMENT CYCLE</text>
+    </g>
+
+    <circle cx="860" cy="90" r="46" fill="none" stroke="#7aa2f7" stroke-width="1.2" opacity="0.5"/>
+    <circle cx="860" cy="90" r="46" fill="url(#orb1_hero)"/>
+    <text x="860" y="97" text-anchor="middle" fill="#e8eaf6" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="22" font-weight="700">SN</text>
+    <circle cx="892" cy="118" r="5" fill="#9ece6a" class="dot-live"/>
+  </g>
+  <rect x="0.75" y="0.75" width="918.5" height="358.5" rx="19.5" fill="none" stroke="url(#edge_hero)" stroke-width="1.4" opacity="0.7"/>
+</svg>

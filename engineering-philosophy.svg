@@ -47,13 +47,13 @@
     <text x="46" y="110" fill="#bb9af7" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="34" opacity="0.25">&#8220;</text>
 
     <g class="row" style="animation-delay:0.10s">
-      <text x="460" y="122" text-anchor="middle" class="quote">consistency compounds — 200+ day streaks aren't motivation, they're infrastructure.</text>
+      <text x="460" y="122" text-anchor="middle" class="quote">Learn the pattern before memorizing the solution.</text>
     </g>
     <g class="row" style="animation-delay:0.20s">
-      <text x="460" y="152" text-anchor="middle" class="quote">solve the pattern, not the problem. debug the fundamentals, not the symptom.</text>
+      <text x="460" y="152" text-anchor="middle" class="quote">Build systems before chasing motivation.</text>
     </g>
     <g class="row" style="animation-delay:0.30s">
-      <text x="460" y="182" text-anchor="middle" class="quote">ship it, measure it, then make it smarter.</text>
+      <text x="460" y="182" text-anchor="middle" class="quote">Progress is measured in months, not moods.</text>
     </g>
 
     <text x="874" y="205" fill="#bb9af7" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="34" opacity="0.25">&#8221;</text>
