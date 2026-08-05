@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 2 * * *"  # daily, independent of your other workflow
+    - cron: "0 2 * * *"
   workflow_dispatch: {}
   push:
     branches: [main]
