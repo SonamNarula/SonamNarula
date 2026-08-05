@@ -1,0 +1,34 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # daily, independent of your other workflow
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SonamNarula
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=%237aa2f7&color_dots=%2324283b,%23414868,%237aa2f7,%23bb9af7,%239ece6a
+
+      - name: Push snake output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f dist/
+          git diff --cached --quiet || git commit -m "chore: update snake animation [skip ci]"
+          git push
