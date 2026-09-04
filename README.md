@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=700&color=7DD3FC&center=true&vCenter=true&width=780&height=55&lines=building+things+to+understand+how+they+work.;DSA+%C2%B7+Competitive+Programming+%C2%B7+Generative+AI;lernen+%C2%B7+bauen+%C2%B7+debuggen">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=700&color=7DD3FC&center=true&vCenter=true&width=780&height=55&lines=building+things+to+understand+how+they+work.;DSA+%C2%B7+Competitive+Programming+%C2%B7+Generative+AI;lernen+%C2%B7+bauen+%C2%B7+debuggen+%C2%B7+verstehen">
 
 <br>
 
@@ -13,17 +13,21 @@
 <br><br>
 
 <a href="https://github.com/SonamNarula">
-<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 <a href="https://in.linkedin.com/in/sonamnarula">
-<img src="https://img.shields.io/badge/LINKEDIN-071A35?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LINKEDIN-071A35?style=for-the-badge&logo=linkedin&logoColor=7DD3FC">
 </a>
 <a href="https://leetcode.com/u/sonamnarula2005/">
-<img src="https://img.shields.io/badge/LEETCODE-0E3A5D?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LEETCODE-0E3A5D?style=for-the-badge&logo=leetcode&logoColor=EC4899">
 </a>
 <a href="mailto:sonamnarula2108@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SonamNarula&label=PROFILE%20VIEWS&color=EC4899&style=for-the-badge">
 
 <br><br>
 
@@ -33,7 +37,7 @@
 
 ---
 
-## 👋 `whoami`
+## 👋 `wer_bin_ich`
 
 I'm **Sonam**, a Computer Science student interested in:
 
@@ -44,238 +48,766 @@ I'm **Sonam**, a Computer Science student interested in:
 
 I started with C/C++, moved into DSA and CP, and now build software while exploring Python, LLMs, embeddings and RAG systems.
 
-> I learn best by building, breaking and understanding how things work.
+> **Ich lerne am besten, indem ich baue, etwas kaputt mache und verstehe, wie es funktioniert.**
+
+> *I learn best by building, breaking and understanding how things work.*
 
 <div align="center">
 
 `C/C++` → `DSA` → `CP` → `SOFTWARE` → `PYTHON` → `AI`
 
+<br>
+
+`lernen` → `bauen` → `debuggen` → `verstehen`
+
 </div>
 
 ---
 
-## ⚡ `current_focus`
+## ⚡ `aktuell`
 
-| Area | Exploring |
+| Bereich | Was ich gerade mache |
 |---|---|
-| 🧩 DSA | Algorithms, patterns, optimisation |
-| ⚔️ CP | CSES, Codeforces, implementation |
-| 🤖 AI / GenAI | Python, LLMs, embeddings, RAG |
-| 🇩🇪 Deutsch | Lernen, üben, sprechen |
-
----
-
-## 🛠️ `tech_stack`
+| 🧩 **DSA** | Algorithms, patterns, optimisation |
+| ⚔️ **CP** | CSES, Codeforces, implementation |
+| 🤖 **AI / GenAI** | Python, LLMs, embeddings, RAG |
+| 🇩🇪 **Deutsch** | Lernen, üben, sprechen |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,bash,react,redux,tailwind,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,vscode,docker,linux&theme=dark">
-
-<br><br>
-
-`C/C++` · `Java` · `Python` · `JavaScript` · `TypeScript`  
-`React` · `Next.js` · `Node.js` · `Express`  
-`MongoDB` · `MySQL` · `Firebase` · `Prisma`  
-`Git` · `Docker` · `Linux` · `Vercel`
+**Ich lerne. Ich baue. Ich verbessere.**
 
 </div>
 
 ---
 
-# 🚀 `featured_projects`
+## 🛠️ `mein_werkzeugkasten`
+
+<div align="center">
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,html,css,bash&theme=dark">
+
+<br><br>
+
+### `FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,nextjs,bootstrap,materialui&theme=dark">
+
+<br><br>
+
+### `BACKEND & DATA`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma,graphql,redis&theme=dark">
+
+<br><br>
+
+### `TOOLING & INFRA`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel,netlify,linux,figma,canva,notion,npm&theme=dark">
+
+<br><br>
+
+### `AI / ML`
+
+<img src="https://skillicons.dev/icons?i=openai,tensorflow,pytorch&theme=dark">
+
+<br><br>
+
+<sub>Werkzeuge sind Mittel. Verstehen ist das Ziel.</sub>
+
+</div>
+
+---
+
+# 🚀 `meine_projekte`
+
+> **Nicht nur Projekte bauen. Herausfinden, warum sie funktionieren.**
 
 ## 🌰 AcornFolio
 
-**AI Mutual-Fund Co-Pilot**
+### `AI MUTUAL-FUND CO-PILOT`
 
-`Next.js` · `TypeScript` · `Tailwind` · `Prisma` · `SQLite` · `LanceDB` · `RAG`
+`Next.js` · `TypeScript` · `Tailwind` · `shadcn/ui` · `Zustand` · `Prisma` · `SQLite` · `LanceDB` · `RAG`
 
-A finance-focused application for understanding mutual funds, SIP, SWP, STP, XIRR, taxes and exit load.
+A finance-focused AI application for understanding mutual funds and the hidden costs behind investment decisions.
 
-**Key idea:** deterministic calculations stay in code, while AI handles retrieval and explanations.
+It explores:
 
-[View Source](https://github.com/SonamNarula/AcornFolio)
+- Direct vs Regular mutual funds
+- SIP / SWP / STP
+- XIRR
+- Tax implications
+- Exit load
+- Portfolio overlap
+- Fund-level context and retrieval
+
+**Engineering principle:**
+
+> Deterministic financial calculations stay in code.  
+> AI handles retrieval, context and explanations.
+
+<div align="center">
+
+`REAL FUND DATA` → `LANCEDB` → `VECTOR SEARCH` → `RAG` → `GROUNDED AI`
+
+</div>
+
+> **Geldmathematik gehört in Code. Kontext und Erklärungen gehören zur KI.**
+
+**[→ View Source](https://github.com/SonamNarula/AcornFolio)**
 
 ---
 
 ## 🧠 neural-folklore
 
-**AI Learning Laboratory**
+### `AI LEARNING LABORATORY`
 
 `Python` · `Embeddings` · `Vector Search` · `Retrieval` · `RAG`
 
-A collection of experiments and notes documenting my journey from Python fundamentals to AI systems.
+An open learning log documenting my journey from Python fundamentals toward real LLM-backed systems.
 
-[View Repository](https://github.com/SonamNarula/neural-folklore)
+This is where I experiment, make mistakes, document what I learn and gradually turn experiments into real systems.
+
+The same RAG pipeline that eventually powered **AcornFolio** started here as learning exercises before becoming production-oriented code.
+
+> **Noch nicht perfekt. Aber ehrlich gelernt.**
+
+**[→ View Repository](https://github.com/SonamNarula/neural-folklore)**
 
 ---
 
 ## ⚡ CodeFusion
 
-**Real-Time Collaborative Code Editor**
+### `REAL-TIME COLLABORATIVE CODE EDITOR`
 
 `React` · `Node.js` · `Socket.io` · `Monaco Editor`
 
-A collaborative coding environment focused on real-time communication, shared state and event-driven architecture.
+A collaborative coding environment where multiple users can edit and watch the same code in real time.
 
-[Live Demo](https://codefusion-collaborative-editor.vercel.app/) ·
-[Source](https://github.com/SonamNarula/CodeFusion-a-collaborative-real-time-code-editor)
+Built to understand:
+
+- WebSocket-style communication
+- Event-driven architecture
+- Real-time state synchronisation
+- Collaborative editing
+- Monaco Editor integration
+
+<div align="center">
+
+`KEYSTROKE`
+
+↓
+
+`SOCKET.IO`
+
+↓
+
+`SERVER`
+
+↓
+
+`CONNECTED CLIENTS`
+
+↓
+
+`SHARED EDITOR STATE`
+
+</div>
+
+> **Gemeinsam programmieren. Gemeinsam verstehen.**
+
+**[→ Live Demo](https://codefusion-collaborative-editor.vercel.app/)** · **[→ Source](https://github.com/SonamNarula/CodeFusion-a-collaborative-real-time-code-editor)**
 
 ---
 
 ## 📊 Trackify
 
-**Student Productivity Dashboard**
+### `STUDENT PRODUCTIVITY SUITE`
 
 `React` · `TypeScript` · `Vite`
 
-Tracks DSA progress, study hours and academic deadlines in one place.
+A productivity dashboard built for students to track:
 
-[Live App](https://trackify.wasmer.app) ·
-[Source](https://github.com/SonamNarula/Trackify-college-minor-project)
+- DSA problems solved
+- Study hours
+- Deadlines
+- Academic progress
+
+The most important part:
+
+### **I actually kept using it.**
+
+That changed the question from:
+
+> *"Does this satisfy the project requirements?"*
+
+to:
+
+> *"Würde ich das wirklich benutzen?"*
+
+**Einfach. Nützlich. Benutzbar.**
+
+**[→ Live App](https://trackify.wasmer.app)** · **[→ Source](https://github.com/SonamNarula/Trackify-college-minor-project)**
 
 ---
 
 ## 📰 NeuroNews
 
-**Category-Based News Aggregator**
+### `CATEGORY-BASED NEWS AGGREGATOR`
 
 `React` · `NewsAPI`
 
-Fetches, categorises and filters news articles with infinite scrolling.
+A news aggregator built around a simple idea:
 
-[Source](https://github.com/SonamNarula/Neuro-News)
+**less friction between me and useful information.**
+
+Features include:
+
+- Category-based filtering
+- API-powered news fetching
+- Infinite scrolling
+- Dynamic article rendering
+
+<div align="center">
+
+`NEWSAPI`
+
+↓
+
+`FETCH`
+
+↓
+
+`CATEGORISE`
+
+↓
+
+`FILTER`
+
+↓
+
+`REACT STATE`
+
+↓
+
+`INFINITE SCROLL`
+
+</div>
+
+> `lesen → filtern → entdecken`
+
+**[→ View Source](https://github.com/SonamNarula/Neuro-News)**
 
 ---
 
-## ⚔️ `dsa_cp`
+## ⚔️ `problemlösen`
 
-My problem-solving practice focuses on:
+Competitive programming is where I train the part of engineering that has to work **under constraints**.
 
-- Pattern recognition
-- Complexity analysis
-- Edge cases
-- Optimisation
-- Clean implementation
-- Learning from wrong approaches
+### `was_ich_übe`
 
-### Topics
+`Arrays` · `Strings` · `Hashing` · `Two Pointers`
 
-`Arrays` · `Strings` · `Hashing` · `Two Pointers`  
-`Sliding Window` · `Binary Search` · `Greedy`  
-`Trees` · `Graphs` · `BFS` · `DFS`  
+`Sliding Window` · `Binary Search` · `Greedy`
+
+`Stacks` · `Queues` · `Linked Lists`
+
+`Trees` · `Graphs` · `BFS` · `DFS`
+
 `Recursion` · `Backtracking` · `Dynamic Programming`
+
+### `my_problem_solving_loop`
+
+<div align="center">
+
+`UNDERSTAND`
+
+↓
+
+`IDENTIFY PATTERN`
+
+↓
+
+`BRUTE FORCE`
+
+↓
+
+`OPTIMISE`
+
+↓
+
+`IMPLEMENT`
+
+↓
+
+`TEST EDGE CASES`
+
+↓
+
+`DEBUG`
+
+↓
+
+`UNDERSTAND AGAIN`
+
+</div>
 
 <div align="center">
 
 `LeetCode` · `Codeforces` · `CSES` · `GeeksforGeeks`
 
+<br><br>
+
+**Nicht nur lösen. Verstehen, warum es funktioniert.**
+
 </div>
 
 ---
 
-## 🤖 `ai_learning_path`
+## 🤖 `mein_ai_weg`
 
-```text
-Python
-  ↓
-Text & Data
-  ↓
-Embeddings
-  ↓
-Vector Search
-  ↓
-Retrieval
-  ↓
-RAG
-  ↓
-LLM Applications
-```
+My interest in AI started with a simple question:
 
-Currently exploring:
+> **What actually happens behind an AI application?**
 
-`LLMs` · `Embeddings` · `Vector Databases` · `Semantic Search` · `RAG` · `Grounded AI`
+Not just the chat interface.
 
-> Code for the numbers. AI for the language.
+But everything around the model.
+
+How information is represented.  
+How relevant information is retrieved.  
+How context reaches the model.  
+How responses are grounded.  
+And how all of that becomes an actual software system.
+
+<div align="center">
+
+`PYTHON`
+
+↓
+
+`TEXT & DATA`
+
+↓
+
+`EMBEDDINGS`
+
+↓
+
+`VECTOR SEARCH`
+
+↓
+
+`RETRIEVAL`
+
+↓
+
+`RAG`
+
+↓
+
+`LLM APPLICATIONS`
+
+↓
+
+`AI-POWERED SOFTWARE`
+
+</div>
+
+### `was_ich_gerade_lerne`
+
+| 🐍 PYTHON | 🧠 LLM SYSTEMS | 🔎 AI DATA LAYER |
+|---|---|---|
+| Fundamentals | Prompting | Vector Search |
+| Functions | Context | Vector Databases |
+| Data Structures | Embeddings | Semantic Similarity |
+| File / Text Processing | Retrieval | Document Retrieval |
+| AI Workflows | RAG | Knowledge Sources |
+| APIs | Grounding | Chunking |
+
+> **Nicht nur benutzen. Verstehen.**
 
 ---
 
-## 🇩🇪 `route_to_deutschland`
+## 🔗 `rag_in_einem_bild`
 
-Germany is a long-term direction I am working toward through:
+<div align="center">
 
-- Stronger software engineering fundamentals
-- DSA and problem-solving practice
-- Real-world projects
-- AI system development
-- Learning German consistently
+### `HOW A SIMPLE RAG PIPELINE WORKS`
 
-```text
-lernen → bauen → debuggen → verstehen → wachsen
-```
+`USER QUESTION`
+
+↓
+
+`EMBEDDING`
+
+↓
+
+`VECTOR SEARCH`
+
+↓
+
+`RELEVANT CONTEXT`
+
+↓
+
+`LLM + CONTEXT`
+
+↓
+
+`GROUNDED RESPONSE`
+
+</div>
+
+The idea is simple:
+
+**retrieve the right information before asking the model to reason over it.**
+
+That distinction is what makes RAG interesting to me.
+
+> **Erst Kontext. Dann Antwort.**
+
+---
+
+## ⚙️ `software_x_ai`
+
+| 🧱 SOFTWARE | 🧠 AI | 🔎 GROUNDING | 🚀 APPLICATION |
+|---|---|---|---|
+| APIs | LLMs | Context | Useful |
+| State | Embeddings | Sources | Reliable |
+| Databases | Retrieval | Search | Maintainable |
+| Architecture | Generation | RAG | Deployable |
+| Authentication | Prompting | Knowledge | Production-minded |
+
+<div align="center">
+
+`SOFTWARE ENGINEERING` × `AI SYSTEMS`
+
+<br>
+
+**Das Ziel ist nicht nur intelligente Software.**
+
+**Das Ziel ist brauchbare Software.**
+
+</div>
+
+---
+
+## 🇩🇪 `mein_deutsch`
+
+<div align="center">
+
+### **Ich lerne Deutsch.**
+
+`lernen` → `verstehen` → `üben` → `sprechen`
+
+</div>
+
+German is another long-term skill I'm building alongside the technical ones.
+
+Just like programming:
+
+<div align="center">
+
+`small repetitions`
+
+↓
+
+`patterns`
+
+↓
+
+`intuition`
+
+↓
+
+`fluency`
+
+</div>
+
+### `lernen`
+
+`lesen` → `hören` → `schreiben` → `sprechen`
+
+| 🇩🇪 Lesen | 🎧 Hören | ✍️ Schreiben | 🗣️ Sprechen |
+|---|---|---|---|
+| Reading | Listening | Writing | Speaking |
+
+<div align="center">
+
+**Jeden Tag ein bisschen.**
+
+*Every day, a little.*
+
+<br>
+
+**Übung macht den Meister. 🇩🇪**
+
+</div>
+
+---
+
+## 🗺️ `route_to_deutschland`
+
+Germany is a long-term direction I'm deliberately working toward.
+
+The plan isn't:
+
+> *"Somehow get to Germany."*
+
+The plan is to build the person who can **thrive there**.
+
+<div align="center">
+
+`STRONG FUNDAMENTALS`
+
+↓
+
+`DSA + CP`
+
+↓
+
+`SOFTWARE PROJECTS`
+
+↓
+
+`AI / GENAI SYSTEMS`
+
+↓
+
+`ENGINEERING EXPERIENCE`
+
+↓
+
+`DEUTSCH LERNEN`
+
+↓
+
+`DEUTSCHLAND 🇩🇪`
+
+</div>
+
+### `der_weg`
+
+| STAGE | FOCUS |
+|---|---|
+| 🇮🇳 `START` | Computer Science |
+| 🧠 `FUNDAMENTALS` | DSA · CP · Core CS |
+| 💻 `BUILD` | Real software projects |
+| 🤖 `EXPLORE` | AI / GenAI |
+| ⚙️ `ENGINEER` | Systems + production thinking |
+| 🇩🇪 `LERNEN` | Deutsch |
+| 🗺️ `ZIEL` | Deutschland |
+
+<div align="center">
 
 **Nicht sofort. Aber Schritt für Schritt.**
 
----
+*Not immediately. But step by step.*
 
-## 🧠 `engineering_mindset`
+<br>
 
-- Think in patterns, not isolated solutions
-- Build projects to understand concepts
-- Debug with curiosity
-- Improve through iteration
-- Prefer fundamentals over hype
-
-<div align="center">
-
-### `learn → build → break → debug → understand`
+**Bis bald, Deutschland. 🇩🇪**
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 `ingenieurdenken`
+
+I try to approach engineering with a few simple principles:
+
+| PRINCIPLE | WHAT IT MEANS |
+|---|---|
+| 🧩 **Patterns over memorisation** | Understand recurring structures |
+| 🔬 **Build to learn** | Projects are experiments |
+| 🐛 **Debug with curiosity** | Errors are information |
+| 🔁 **Iterate** | First version is rarely the final one |
+| 📚 **Fundamentals over hype** | Understand the base before the abstraction |
+| 🎯 **Understand before optimising** | Correctness first, then efficiency |
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamNarula&theme=github_dark" width="100%"/>
+`lernen`
+
+↓
+
+`bauen`
+
+↓
+
+`brechen`
+
+↓
+
+`debuggen`
+
+↓
+
+`verstehen`
+
+↓
+
+`verbessern`
+
+↓
+
+`wiederholen`
+
+<br>
+
+### **Nicht nur benutzen. Verstehen.**
+
+</div>
+
+---
+
+## 🔥 `build_log`
+
+<div align="center">
+
+| PROJECT | PROBLEM | APPROACH |
+|---|---|---|
+| 🌰 **AcornFolio** | Financial decisions | Deterministic engine + RAG |
+| 🧠 **neural-folklore** | Understanding AI | Experiments + learning logs |
+| ⚡ **CodeFusion** | Shared coding | Real-time synchronisation |
+| 📊 **Trackify** | Student productivity | Personal utility |
+| 📰 **NeuroNews** | Information discovery | API + filtering |
+
+</div>
+
+<div align="center">
+
+**Different problems. Different stacks. Same goal.**
+
+<br>
+
+`bauen → testen → debuggen → verstehen`
+
+</div>
+
+---
+
+## 📊 `github_aktivität`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SonamNarula&theme=github_dark" width="100%">
 
 <br><br>
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SonamNarula&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SonamNarula&theme=github_dark" width="100%">
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SonamNarula&theme=github_dark&utcOffset=5.5" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SonamNarula&theme=github_dark&utcOffset=5.5" width="100%">
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SonamNarula&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SonamNarula&theme=github_dark" width="100%">
 </td>
 <td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SonamNarula&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SonamNarula&theme=github_dark" width="100%">
 </td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0D1117&color=A855F7&line=EC4899&point=E9D5FF&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity" width="92%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=0D1117&color=7DD3FC&line=EC4899&point=F8FAFC&area=true&area_color=0E3A5D&hide_border=true&custom_title=Contribution%20Activity" width="92%">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=SonamNarula&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img src="https://streak-stats.demolab.com/?user=SonamNarula&theme=dark&hide_border=true&background=0D1117&ring=7DD3FC&fire=EC4899&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%">
 
 </div>
 
-<br>
 ---
 
+## 🏆 `competitive_proof`
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/sonamnarula2005?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="70%">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SonamNarula&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" width="90%">
+
+</div>
+
 ---
-# 🌐 `connect`
+
+## 🧭 `current_direction`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧩
+
+**DSA**
+
+Patterns  
+Algorithms  
+Problem Solving
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚔️
+
+**CP**
+
+CSES  
+Codeforces  
+Contests
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI**
+
+Python  
+LLMs  
+RAG
+
+</td>
+
+<td align="center" width="25%">
+
+### 🇩🇪
+
+**DEUTSCH**
+
+Lernen  
+Üben  
+Sprechen
+
+</td>
+</tr>
+</table>
+
+<br>
+
+`FOCUS → DEPTH → CONSISTENCY → ENGINEERING`
+
+</div>
+
+---
+
+## 🌐 `vernetzen`
 
 <div align="center">
 
@@ -297,26 +829,19 @@ lernen → bauen → debuggen → verstehen → wachsen
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SonamNarula&label=PROFILE%20VIEWS&color=EC4899&style=for-the-badge">
+### **Wenn du etwas Interessantes baust, lass uns reden.**
 
-<br><br>
-
-### **If you're building something interesting, let's talk.**
-
-</div>
-
----
-### `Bis bald, Deutschland. 🇩🇪`
-
-**Keep building. Keep learning. Keep moving.**
+*If you're building something interesting, let's talk.*
 
 <br>
 
-`SONAM_NARULA.exe` &nbsp; `STATUS: RUNNING`
+`SONAM_NARULA.exe`
 
-</div>
+`STATUS: RUNNING`
 
-<div align="center">
+`MODUS: LERNEN`
+
+<br><br>
 
 ### `lernen · bauen · wachsen · wiederholen`
 
@@ -324,12 +849,10 @@ lernen → bauen → debuggen → verstehen → wachsen
 
 <br>
 
-`SONAM_NARULA.exe` · `STATUS: RUNNING`
+**Bis bald, Deutschland. 🇩🇪**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050816,25:071A35,50:0E3A5D,72:12618C,90:EC4899,100:050816&animation=twinkling" width="100%">
 
 </div>
-
-<div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050816,25:071A35,50:0E3A5D,72:12618C,90:EC4899,100:050816&animation=twinkling">
-
