@@ -459,7 +459,7 @@ next:    keep building.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SonamNarula&bg_color=050816&color=7DD3FC&line=EC4899&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=SonamNarula&bg_color=050816&color=7DD3FC&line=EC4899&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
 
 <br><br>
 
@@ -467,7 +467,12 @@ next:    keep building.
 
 <br><br>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=SonamNarula&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6">
+<p><code>RECOGNITIONS</code></p>
+
+<img src="https://img.shields.io/badge/GOOGLE_STEP-ROUND_1-050816?style=for-the-badge&logoColor=7DD3FC&labelColor=071A35">
+<img src="https://img.shields.io/badge/SMART_INDIA_HACKATHON-NATIONAL_FINALIST-050816?style=for-the-badge&labelColor=0E3A5D&color=EC4899">
+<img src="https://img.shields.io/badge/DD_NEWS-TECH%2FMEDIA_INTERN-050816?style=for-the-badge&labelColor=071A35&color=7DD3FC">
+<img src="https://img.shields.io/badge/DEVCREST_JU-DSA_CAPTAIN_%C2%B7_400%2B_MEMBERS-050816?style=for-the-badge&labelColor=0E3A5D&color=EC4899">
 
 <br><br>
 
