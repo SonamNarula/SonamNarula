@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sonam Narula: software engineering, DSA and CP, AI and GenAI" width="100%">
+<img src="banner_1.svg" alt="Sonam Narula: software engineering, DSA and CP, AI and GenAI" width="100%">
 
 <br>
 
@@ -39,7 +39,7 @@ question → learn → build → break → debug → understand → build better
 |:---:|:---:|:---:|:---:|
 | ICPC Algo Queen 2026<br>global rank | problems solved<br>in that contest | DSA / CP problems<br>across platforms | members led as<br>DSA Captain, Devcrest JU |
 
-<img src="assets/journey.svg" alt="Journey: C/C++, DSA and CP, building software, Python and AI, next Deutschland" width="760">
+<img src="journey.svg" alt="Journey: C/C++, DSA and CP, building software, Python and AI, next Deutschland" width="760">
 
 </div>
 
